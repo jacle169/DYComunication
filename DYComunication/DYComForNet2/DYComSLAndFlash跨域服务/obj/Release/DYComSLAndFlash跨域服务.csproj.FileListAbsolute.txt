@@ -1,0 +1,8 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\bin\Release\DYComSLAndFlash跨域服务.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\bin\Release\DYComSLAndFlash跨域服务.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\bin\Release\DYCom.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\bin\Release\DYCom.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\bin\Release\DYCom.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.pdb

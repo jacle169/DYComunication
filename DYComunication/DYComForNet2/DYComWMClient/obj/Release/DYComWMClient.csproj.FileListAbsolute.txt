@@ -1,0 +1,11 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\bin\Release\DYComWMClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\bin\Release\DYComWMClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\obj\Release\DYComWMClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\obj\Release\DYComWMClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\bin\Release\DYComWMClient.XML
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\bin\Release\DYComWMClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\bin\Release\DYComWMClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\obj\Release\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\obj\Release\DYComWMClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWMClient\obj\Release\DYComWMClient.pdb

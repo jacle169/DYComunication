@@ -1,0 +1,18 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="DYsmartServerTestClient" EntryPointType="DYsmartServerTestClient.App" RuntimeVersion="4.0.50826.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="DYsmartServerTestClient Application" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+      <OutOfBrowserSettings.Blurb>DYsmartServerTestClient Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="DYsmartServerTestClient Application" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.SecuritySettings>
+        <SecuritySettings ElevatedPermissions="Required" />
+      </OutOfBrowserSettings.SecuritySettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="DYsmartServerTestClient" Source="DYsmartServerTestClient.dll" />
+    <AssemblyPart x:Name="DYComSLClient" Source="DYComSLClient.dll" />
+  </Deployment.Parts>
+</Deployment>

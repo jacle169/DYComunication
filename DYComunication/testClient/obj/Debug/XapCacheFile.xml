@@ -1,0 +1,5 @@
+﻿<xapCache source="D:\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Debug\testClient.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013/4/5 11:19:51">
+  <file source="D:\Visual Studio 2010\Projects\DYComunication\testClient\obj\Debug\testClient.dll" archivePath="testClient.dll" lastWriteTime="2013/4/5 11:19:51" />
+  <file source="D:\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.dll" archivePath="DYComSLClient.dll" lastWriteTime="2013/4/5 11:19:50" />
+  <file source="D:\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013/4/5 11:19:51" />
+</xapCache>

@@ -1,0 +1,13 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\bin\Release\DYComServerUDPSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\bin\Release\DYComServerUDPSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\bin\Release\DYCom_Net2.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\bin\Release\DYCom_Net2.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\obj\Release\DYComServerUDPSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\obj\Release\DYComServerUDPSample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\bin\Release\DYComServerUDPSample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\bin\Release\DYComServerUDPSample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\bin\Release\DYCom_Net2.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\obj\Release\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\obj\Release\DYComServerUDPSample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerUDPSample\obj\Release\DYComServerUDPSample.pdb

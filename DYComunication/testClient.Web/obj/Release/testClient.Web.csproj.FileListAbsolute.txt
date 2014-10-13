@@ -1,0 +1,5 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient.Web\bin\testClient.Web.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient.Web\bin\testClient.Web.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient.Web\obj\Release\testClient.Web.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient.Web\obj\Release\testClient.Web.pdb

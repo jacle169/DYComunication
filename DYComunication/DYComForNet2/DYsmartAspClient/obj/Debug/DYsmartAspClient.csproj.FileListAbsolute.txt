@@ -1,0 +1,15 @@
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartAspClient\bin\Debug\DYsmartAspClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartAspClient\bin\Debug\DYsmartAspClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartAspClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartAspClient\obj\Debug\DYsmartAspClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartAspClient\obj\Debug\DYsmartAspClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\bin\Debug\DYsmartAspClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\bin\Debug\DYsmartAspClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\obj\Debug\DYsmartAspClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\obj\Debug\DYsmartAspClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\bin\Debug\DYsmartAspClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\bin\Debug\DYsmartAspClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\obj\Debug\DYsmartAspClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartAspClient\obj\Debug\DYsmartAspClient.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dylcModelStoreContainer" CdmEntityContainer="dylcEntities">
+    <EntitySetMapping Name="UserKeyTable">
+      <EntityTypeMapping TypeName="dylcModel.UserKeyTable">
+        <MappingFragment StoreEntitySet="UserKeyTable">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="PDKey" ColumnName="PDKey" />
+          <ScalarProperty Name="RegTime" ColumnName="RegTime" />
+          <ScalarProperty Name="EnableTime" ColumnName="EnableTime" />
+          <ScalarProperty Name="IsForever" ColumnName="IsForever" />
+          <ScalarProperty Name="IsUsing" ColumnName="IsUsing" />
+          <ScalarProperty Name="UserMail" ColumnName="UserMail" />
+          <ScalarProperty Name="UserMobile" ColumnName="UserMobile" />
+          <ScalarProperty Name="UserQQ" ColumnName="UserQQ" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

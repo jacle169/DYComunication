@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYcomWcfGameClient", "DYcomWcfGameClient\DYcomWcfGameClient.csproj", "{975A05E2-CA39-4FBF-829A-94CA2E0FAD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYcomWcfGameClient.Web", "DYcomWcfGameClient.Web\DYcomWcfGameClient.Web.csproj", "{1AEBA668-84DA-4C70-B8A3-D8FEFB0DD944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975A05E2-CA39-4FBF-829A-94CA2E0FAD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975A05E2-CA39-4FBF-829A-94CA2E0FAD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975A05E2-CA39-4FBF-829A-94CA2E0FAD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975A05E2-CA39-4FBF-829A-94CA2E0FAD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEBA668-84DA-4C70-B8A3-D8FEFB0DD944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEBA668-84DA-4C70-B8A3-D8FEFB0DD944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEBA668-84DA-4C70-B8A3-D8FEFB0DD944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEBA668-84DA-4C70-B8A3-D8FEFB0DD944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinFormClientSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinFormClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.Form1.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.Properties.Resources.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.csproj.GenerateResource.Cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinFormClientSample.exe
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinFormClientSample.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.dll
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.xml
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.Form1.resources
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.Properties.Resources.resources
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.csproj.GenerateResource.Cache
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.exe
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYsmartWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYsmartWinClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYsmartWinClient.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinFormClientSample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinFormClientSample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYsmartWinClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYsmartWinClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYsmartWinClient.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\bin\Release\DYComWinClient.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.Form1.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.csproj.GenerateResource.Cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinFormClientSample\obj\Release\DYComWinFormClientSample.pdb

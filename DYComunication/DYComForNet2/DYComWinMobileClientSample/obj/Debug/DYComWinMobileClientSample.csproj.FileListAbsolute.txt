@@ -1,0 +1,34 @@
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWinMobileClientSample.exe
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWinMobileClientSample.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWMClient.dll
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWMClient.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.Form1.resources
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.Properties.Resources.resources
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.csproj.GenerateResource.Cache
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.exe
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWinMobileClientSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWinMobileClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWMClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYsmartWMClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWMClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYsmartWMClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.Form1.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.Properties.Resources.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.csproj.GenerateResource.Cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWinMobileClientSample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWinMobileClientSample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWMClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYsmartWMClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYComWMClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\bin\Debug\DYsmartWMClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.Form1.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.csproj.GenerateResource.Cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinMobileClientSample\obj\Debug\DYComWinMobileClientSample.pdb

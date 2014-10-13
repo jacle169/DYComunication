@@ -1,0 +1,4 @@
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPClient\Bin\Debug\DYComWPClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPClient\Bin\Debug\DYComWPClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPClient\obj\Debug\DYComWPClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPClient\obj\Debug\DYComWPClient.pdb

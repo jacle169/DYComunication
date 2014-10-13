@@ -1,0 +1,22 @@
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.XML
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.dll
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.pdb
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\ResolveAssemblyReference.cache
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.dll
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.dll
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.dll
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.XML
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\bin\Release\DYCom_Net2.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYCom_Net2\obj\Release\DYCom_Net2.pdb

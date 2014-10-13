@@ -1,0 +1,10 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\bin\Release\sqlConStringCreater.exe.config
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\bin\Release\sqlConStringCreater.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\bin\Release\sqlConStringCreater.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\obj\x86\Release\sqlConStringCreater.Form1.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\obj\x86\Release\sqlConStringCreater.Properties.Resources.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\obj\x86\Release\sqlConStringCreater.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\sqlConStringCreater\obj\x86\Release\sqlConStringCreater.pdb

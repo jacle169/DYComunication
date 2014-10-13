@@ -1,0 +1,5 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWcfGameClient\DYcomWcfGameClient.Web\bin\DYcomWcfGameClient.Web.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWcfGameClient\DYcomWcfGameClient.Web\bin\DYcomWcfGameClient.Web.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWcfGameClient\DYcomWcfGameClient.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWcfGameClient\DYcomWcfGameClient.Web\obj\Debug\DYcomWcfGameClient.Web.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWcfGameClient\DYcomWcfGameClient.Web\obj\Debug\DYcomWcfGameClient.Web.pdb

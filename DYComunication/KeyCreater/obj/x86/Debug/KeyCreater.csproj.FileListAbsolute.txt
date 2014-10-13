@@ -1,0 +1,16 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\bin\Debug\KeyCreater.exe.config
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\bin\Debug\KeyCreater.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\bin\Debug\KeyCreater.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\MainWindow.baml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\App.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\KeyCreater_MarkupCompile.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\KeyCreater.g.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\KeyCreater.Properties.Resources.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\KeyCreater.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\obj\x86\Debug\KeyCreater.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\KeyCreater\bin\Debug\DYCom_Net4.pdb

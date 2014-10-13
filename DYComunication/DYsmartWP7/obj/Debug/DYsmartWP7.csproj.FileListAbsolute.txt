@@ -1,0 +1,16 @@
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\ApplicationIcon.png
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\Background.png
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\DYsmartWP7.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\DYsmartWP7.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\AppManifest.xaml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\DYsmartWP7.xap
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\obj\Debug\App.g.i.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\obj\Debug\MainPage.g.i.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\obj\Debug\DYsmartWP7.g.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\obj\Debug\DYsmartWP7.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\obj\Debug\DYsmartWP7.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\obj\Debug\XapCacheFile.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\DYComWPClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\DYComWPClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\Bin\Debug\DYComWPClient.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartWP7\obj\Debug\DYsmartWP7.csprojResolveAssemblyReference.cache

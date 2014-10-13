@@ -1,0 +1,8 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\bin\Release\DYComWCFServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\bin\Release\DYComWCFServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\bin\Release\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\bin\Release\DYCom_Net4.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\bin\Release\DYCom_Net4.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\obj\x86\Release\DYComWCFServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFServer\obj\x86\Release\DYComWCFServer.pdb

@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <customBinding>
+                <binding name="NetTcpBinding_IdyGameServer">
+                    <binaryMessageEncoding />
+                    <tcpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+                </binding>
+            </customBinding>
+        </bindings>
+        <client>
+            <endpoint address="net.tcp://localhost:4504/Service" binding="customBinding"
+                bindingConfiguration="NetTcpBinding_IdyGameServer" contract="poxy.IdyGameServer"
+                name="NetTcpBinding_IdyGameServer" />
+        </client>
+    </system.serviceModel>
+</configuration>

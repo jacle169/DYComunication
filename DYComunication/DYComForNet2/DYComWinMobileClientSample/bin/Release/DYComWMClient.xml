@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DYComWMClient</name>
+    </assembly>
+    <members>
+        <member name="T:DYComWMClient.ClientPoxy">
+            <summary> 
+            DYComWindowsMobile客户端
+            </summary> 
+        </member>
+        <member name="M:DYComWMClient.ClientPoxy.Start(System.String,System.Int32,System.Int32)">
+            <summary>
+            DYcom客户端代理启动
+            </summary>
+            <param name="ServerIP">服务器IP地址</param>
+            <param name="Port">连接端口</param>
+            <param name="BufferCount">缓冲区大小</param>
+        </member>
+        <member name="M:DYComWMClient.ClientPoxy.Send(System.Byte[])">
+            <summary>
+            发送消息
+            </summary>
+            <remarks>发送一条BYTE[]消息到服务端</remarks>
+            <param name="buff">消息体</param>
+        </member>
+        <member name="M:DYComWMClient.ClientPoxy.SendToSmart(System.Byte[])">
+            <summary>
+            发送smart指令
+            </summary>
+            <remarks>发送一条消息到DYsmart设备</remarks>
+            <param name="order">消息体</param>
+        </member>
+        <member name="F:DYComWMClient.ClientPoxy.outQueue">
+            <summary>
+            发送消息队列
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.ClientPoxy.System#IDisposable#Dispose">
+            <summary>
+            释放此客户端代理
+            </summary>
+            <remarks>不须刻意调用,系统自动处理</remarks>
+        </member>
+        <member name="P:DYComWMClient.ClientPoxy.onConnet">
+            <summary> 
+            DYComWindowsMobile连接代理属性
+            </summary> 
+        </member>
+        <member name="P:DYComWMClient.ClientPoxy.onData">
+            <summary> 
+            DYComWindowsMobile数据代理属性
+            </summary> 
+        </member>
+        <member name="P:DYComWMClient.ClientPoxy.onDisconnet">
+            <summary> 
+            DYComWindowsMobile断开连接代理属性
+            </summary> 
+        </member>
+        <member name="T:DYComWMClient.DYcryption">
+            <summary> 
+            加密组件
+            </summary> 
+        </member>
+        <member name="M:DYComWMClient.DYcryption.EncryptDES(System.Byte[],System.String)">
+            <summary> 
+            加密byte[]消息内容
+            </summary> 
+            <param name="input">被加密内容</param> 
+            <param name="password">加密口令，密须为8位字符串，否则返加null值</param> 
+            <returns>加密后byte[]消息内容</returns> 
+        </member>
+        <member name="M:DYComWMClient.DYcryption.DecryptDES(System.Byte[],System.String)">
+            <summary> 
+            解密byte[]消息内容
+            </summary> 
+            <param name="Input">被解密内容</param> 
+            <param name="password">解密口令，与加密口令一致才能正常解密，须为8位字符串，否则返加null值</param> 
+            <returns>解密后byte[]消息内容</returns> 
+        </member>
+        <member name="T:DYComWMClient.OnConnet">
+            <summary>
+            连接通知代理
+            </summary>
+        </member>
+        <member name="T:DYComWMClient.OnData">
+            <summary>
+            消息通知代理
+            </summary>
+        </member>
+        <member name="T:DYComWMClient.OnDisConnet">
+            <summary>
+            错误通知代理
+            </summary>
+        </member>
+        <member name="T:DYComWMClient.DYWriter">
+            <summary>
+            数据包格式化类
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.Merge(System.Byte[][])">
+            <summary>
+            将1个2维数据包整合成以个一维数据包
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Int32)">
+            <summary>
+            将一个32位整形转换成一个BYTE[]4字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Single)">
+            <summary>
+            将一个浮点型转换成一个BYTE[]4字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Int16)">
+            <summary>
+            将一个16位整形转换成一个BYTE[]2字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Double)">
+            <summary>
+            将一个Double值转换成一个BYTE[]4字节
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.DateTime)">
+            <summary>
+            将一个DateTime值转换成一个BYTE[]8字节
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Boolean)">
+            <summary>
+            将一个Bool值转换成一个BYTE(True:1,False:0)
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Int64)">
+            <summary>
+            将一个64位整型转换成以个BYTE[] 8字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Byte)">
+            <summary>
+            将一个 1位CHAR转换成1位的BYTE
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.Byte[])">
+            <summary>
+            将一个BYTE[]数据包添加首位长度
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYWriter.GetDYBytes(System.String,System.Text.Encoding)">
+            <summary>
+            将一个字符串转换成BYTE[]，BYTE[]的首位是字符串的长度
+            </summary>
+            <param name="data"></param>
+            <param name="encoder"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DYComWMClient.DYReader">
+            <summary>
+            数据包格式化类
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYReader.Reset">
+            <summary>
+            重置内存流指针
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYReader.#ctor(System.Byte[])">
+            <summary>
+            DYCom消息读取器
+            </summary>
+            <remarks>读取消息中的内容</remarks>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadInt32(System.Int32@)">
+            <summary>
+            读取内存流中的4位并转换成整型
+            </summary>
+            <param name="values">内存流</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadFloat(System.Single@)">
+            <summary>
+            读取内存流中的4位并转换浮点型
+            </summary>
+            <param name="values">内存流</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadDouble(System.Double@)">
+            <summary>
+            读取内存流中的Double值
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadInt64(System.Int64@)">
+            <summary>
+            读取内存流中的Long值
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadBool(System.Boolean@)">
+            <summary>
+            读取内存流中的Bool值
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadDateTime(System.DateTime@)">
+            <summary>
+            读取内存流中的DataTime值
+            </summary>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadByte(System.Byte@)">
+            <summary>
+            读取内存流中的首位
+            </summary>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadInt16(System.Int16@)">
+            <summary>
+            读取内存流中的2位并转换成整型
+            </summary>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadString(System.String@,System.Text.Encoding)">
+            <summary>
+            读取内存流中一段字符串
+            </summary>
+            <param name="values">读出变量</param>
+            <param name="encoder">解码器</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYReader.ReadByteArray(System.Byte[]@)">
+            <summary>
+            读取内存流中一段数据
+            </summary>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYComWMClient.DYReader.GetCurrentToEnd">
+            <summary>
+            读取内存流中剩余部份
+            </summary>
+        </member>
+        <member name="P:DYComWMClient.DYReader.Length">
+            <summary>
+            内存流长度
+            </summary>
+        </member>
+    </members>
+</doc>

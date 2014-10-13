@@ -1,0 +1,11 @@
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\bin\Debug\DYcomTestConnection.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\bin\Debug\DYcomTestConnection.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\bin\Debug\DYComWinClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\bin\Debug\DYComWinClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\obj\x86\Debug\DYcomTestConnection.Form1.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\obj\x86\Debug\DYcomTestConnection.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\obj\x86\Debug\DYcomTestConnection.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYcomTestConnection\obj\x86\Debug\DYcomTestConnection.pdb

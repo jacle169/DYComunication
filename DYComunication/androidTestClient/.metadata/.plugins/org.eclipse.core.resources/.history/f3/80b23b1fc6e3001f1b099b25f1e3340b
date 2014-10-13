@@ -1,0 +1,68 @@
+package dytest.testad;
+
+import java.nio.ByteBuffer;
+
+import android.app.Activity;
+import android.view.View;
+import android.widget.*;
+import android.os.Bundle;
+import DYCom.android.*;
+
+public class DYComAndroidTestClient extends Activity implements dyChangeListener {
+	int login=0;
+	clientPoxy poxy;
+	DYwriter dm;
+	
+	TextView tv;
+	
+    @Override
+    public void onCreate(Bundle savedInstanceState) {   	     
+        super.onCreate(savedInstanceState);
+        
+        dm=new DYwriter();
+        poxy=new clientPoxy("192.168.0.2",4510,256);
+        poxy.handler.dyevent.setDYListener(this);
+
+        
+		tv=new TextView(this);
+		tv.setHeight(300);
+		tv.setWidth(300);
+		
+		final EditText et=new EditText(this);
+		et.setWidth(200);
+		Button bt=new Button(this);
+		bt.setText("发送消息到dycom");
+		
+		LinearLayout ll=new LinearLayout(this);
+		ll.setOrientation(LinearLayout.VERTICAL);  
+		ll.addView(tv);
+		ll.addView(et);
+		ll.addView(bt);
+        setContentView(ll);
+        
+        bt.setOnClickListener(new View.OnClickListener() {  
+            public void onClick(View v) {  
+                ByteBuffer[] msg ={dm.GetDYBytes(login),
+                		"android: " + dm.GetDYBytes(et.getText().toString(),"utf-8")};
+                poxy.send(dm.Merge(msg));
+            }  
+        }); 
+
+    }
+
+	@Override
+	public void onData(byte[] data) {
+	  DYreader read=new DYreader(data);
+	  int type = read.ReadInt32();
+	  if(type==login){
+	    String msg = read.ReadString("urf-8");
+	    display(msg);
+	   }
+	}
+	
+	void display(String msg)
+	{
+      tv.append(msg + "\n");
+	}
+    
+}

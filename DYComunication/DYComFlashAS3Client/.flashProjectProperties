@@ -1,0 +1,32 @@
+<projectDescription>
+  <id>1290907571499</id>
+  <name>DYComFlashAS3Client</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/jac/AppData/Local/Adobe/Flash CS4/zh_CN/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/jac/AppData/Local/Adobe/Flash CS4/zh_CN/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/dycomFlashTest.fla</defaultApp>
+  <rootURI>file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="DYcomFlashAS3.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcomFlashAS3.as</uri>
+    <uri label="DYsmartFlashClient.fla">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYsmartFlashClient.fla</uri>
+    <uri label="dycomFlashTest.fla">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/dycomFlashTest.fla</uri>
+    <uri label="dycomFlashTest.fla">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYComForFlashAS3Client/dycomFlashTest.fla</uri>
+    <uri label="DYcomFlashAS3.fla">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcomFlashAS3.fla</uri>
+    <uri label="DYcomFlashAS3.swc">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYComForFlashAS3Client/lib/DYcomFlashAS3.swc</uri>
+    <uri label="JSON.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcom/JSON.as</uri>
+    <uri label="JSONEncoder.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcom/JSONEncoder.as</uri>
+    <uri label="DYComFlashAS3.fla">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYComFlashAS3.fla</uri>
+    <uri label="JSONTokenType.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcom/JSONTokenType.as</uri>
+    <uri label="JSONTokenizer.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcom/JSONTokenizer.as</uri>
+    <uri label="JSONToken.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcom/JSONToken.as</uri>
+    <uri label="JSONParseError.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcom/JSONParseError.as</uri>
+    <uri label="JSONDecoder.as">file:///C|/Users/jac/Documents/Visual Studio 2010/Projects/DYComunication/DYComFlashAS3Client/DYcom/JSONDecoder.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

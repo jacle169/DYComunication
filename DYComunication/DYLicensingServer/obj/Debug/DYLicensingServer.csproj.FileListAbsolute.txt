@@ -1,0 +1,10 @@
+C:\Users\jac\documents\visual studio 2010\Projects\DYLicensing\DYLicensingServer\bin\Debug\DYLicensingServer.dll
+C:\Users\jac\documents\visual studio 2010\Projects\DYLicensing\DYLicensingServer\bin\Debug\DYLicensingServer.pdb
+C:\Users\jac\documents\visual studio 2010\Projects\DYLicensing\DYLicensingServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\documents\visual studio 2010\Projects\DYLicensing\DYLicensingServer\obj\Debug\DYLicensingServer.dll
+C:\Users\jac\documents\visual studio 2010\Projects\DYLicensing\DYLicensingServer\obj\Debug\DYLicensingServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYLicensingServer\bin\Debug\DYLicensingServer.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYLicensingServer\bin\Debug\DYLicensingServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYLicensingServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYLicensingServer\obj\Debug\DYLicensingServer.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYLicensingServer\obj\Debug\DYLicensingServer.pdb

@@ -1,0 +1,20 @@
+本客户端在Flash CS4中编译通过
+使用方法
+
+1.把本目录当中的lib\DYcomFlashAS3.swc复制到你的Flash CS4的安装目录中的："Common\Configuration\Components"目录中
+例如：D:\开发平台\flex开发平台\Adobe Flash CS4\Common\Configuration\Components
+
+2.重启Flash CS4
+
+3.在Flash CS4中的工具栏:组件-》标准组件-》DYcomFlashAS3,拖入到第一帧的应用界面(然后删除拖放出来的东西）
+
+4.可以直接通过简单的代码调用，如下：
+var poxy:DYcomFlashAS3=new DYcomFlashAS3();
+addChild(poxy);
+
+
+
+//******************************************
+//http://DY2COM.com
+//DYCOM Sample
+//*******************************************

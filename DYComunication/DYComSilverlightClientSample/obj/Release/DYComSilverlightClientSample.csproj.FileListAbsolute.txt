@@ -1,0 +1,15 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\DYComSilverlightClientSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\DYComSilverlightClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\AppManifest.xaml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\DYComSilverlightClientSample.xap
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\DYComSilverlightClientSampleTestPage.html
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\testClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\testClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Release\DYComSLClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Release\App.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Release\MainPage.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Release\DYComSilverlightClientSample.g.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Release\DYComSilverlightClientSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Release\DYComSilverlightClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Release\XapCacheFile.xml

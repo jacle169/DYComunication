@@ -1,0 +1,30 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYComServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYComServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYCom_Net4.pdb
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComServer\obj\Debug\DYComServer.exe
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComServer\obj\Debug\DYComServer.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYComServer.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYComServer.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYCom_Net4.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYCom_Net4.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComServer\obj\Debug\DYComServer.exe
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComServer\obj\Debug\DYComServer.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComServer\bin\Debug\DYComServer.exe
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComServer\bin\Debug\DYComServer.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComServer\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComServer\bin\Debug\DYCom_Net4.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComServer\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.exe
+D:\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.pdb
+D:\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYComServer.exe
+D:\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYComServer.pdb
+D:\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYCom_Net4.dll
+D:\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Debug\DYCom_Net4.pdb
+D:\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Debug\DYComServer.csprojResolveAssemblyReference.cache

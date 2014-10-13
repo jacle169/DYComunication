@@ -1,0 +1,16 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYsmartSLSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYsmartSLSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\AppManifest.xaml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYsmartSLSample.xap
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYsmartSLSampleTestPage.html
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYComSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYsmartSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYComSLClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\Bin\Release\DYsmartSLClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\obj\Release\App.g.i.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\obj\Release\MainPage.g.i.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\obj\Release\DYsmartSLSample.g.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\obj\Release\DYsmartSLSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\obj\Release\DYsmartSLSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLSample\obj\Release\XapCacheFile.xml

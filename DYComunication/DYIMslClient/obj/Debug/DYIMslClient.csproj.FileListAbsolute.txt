@@ -1,0 +1,15 @@
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\DYIMslClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\DYIMslClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\AppManifest.xaml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\DYIMslClient.xap
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\DYIMslClientTestPage.html
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\DYComSLClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\DYComSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\Bin\Debug\DYComSLClient.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\obj\Debug\App.g.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\obj\Debug\MainPage.g.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\obj\Debug\DYIMslClient.g.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\obj\Debug\DYIMslClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\obj\Debug\DYIMslClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMslClient\obj\Debug\XapCacheFile.xml

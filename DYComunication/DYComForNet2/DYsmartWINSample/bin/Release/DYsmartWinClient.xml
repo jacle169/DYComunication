@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>DYsmartWinClient</name>
+  </assembly>
+  <members>
+    <member name="T:DYsmartWinClient.DYsmart">
+      <summary>
+            DYsmartAPI
+            </summary>
+    </member>
+    <member name="F:DYsmartWinClient.DYsmart.pwd">
+      <summary>
+            DYsmart安全口令
+            </summary>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.#ctor(System.String)">
+      <summary>
+            DYsmartAPI
+            </summary>
+      <remarks>DYsmart相关操作编程接口</remarks>
+      <param name="Pwd">硬件安全口令</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.resetAll(System.String)">
+      <summary>
+            初始化操作
+            </summary>
+      <remarks>DYsmart所有基础信息初始化</remarks>
+      <param name="DYid">硬件设备ID</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.resetAllAclient(System.String)">
+      <summary>
+            初始化操作(子系统)
+            </summary>
+      <remarks>DYsmart所有基础信息初始化(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.setPwd(System.String)">
+      <summary>
+            修改安全口令
+            </summary>
+      <remarks>修改安全口令</remarks>
+      <param name="newPwd">新安全口令</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.setPwd(System.String,System.String)">
+      <summary>
+            修改安全口令
+            </summary>
+      <remarks>修改安全口令</remarks>
+      <param name="oldPwd">当前安全口令</param>
+      <param name="newPwd">新安全口令</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.setPwd(System.String,System.String,System.String)">
+      <summary>
+            修改安全口令(子系统)
+            </summary>
+      <remarks>修改安全口令(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="oldPwd">当前安全口令</param>
+      <param name="newPwd">新安全口令</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.StartSerial(System.Int32)">
+      <summary>
+            启动串口通信
+            </summary>
+      <remarks>启动串口通信</remarks>
+      <param name="baud">比特率(9600,19200等等...)</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SendSerial(System.Byte[])">
+      <summary>
+            发送串口消息
+            </summary>
+      <remarks>发送串口消息</remarks>
+      <param name="data">要发送的消息内容</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.IrSpiler(System.Byte[],System.Int32)">
+      <summary>
+            分离过长消息体
+            </summary>
+      <remarks>分离过长消息体</remarks>
+      <param name="data">要发送的消息内容</param>
+      <param name="spiler">切分因子(按最大此值切分消息)</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.pinMode(System.Int32,DYsmartWinClient.pMode)">
+      <summary>
+            设置端口特性
+            </summary>
+      <remarks>设置端口特性</remarks>
+      <param name="pin">端口编号</param>
+      <param name="mode">端口特性</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.pinMode(System.String,System.Int32,DYsmartWinClient.pMode)">
+      <summary>
+            设置端口特性(子系统)
+            </summary>
+      <remarks>设置端口特性(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="pin">端口编号</param>
+      <param name="mode">端口特性</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetDigital(System.Int32,DYsmartWinClient.dMode)">
+      <summary>
+            设置数字端口
+            </summary>
+      <remarks>设置数字端口</remarks>
+      <param name="pin">端口编号</param>
+      <param name="mode">端口特性</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetDigital(System.String,System.Int32,DYsmartWinClient.dMode)">
+      <summary>
+            设置数字端口(子系统)
+            </summary>
+      <remarks>设置数字端口(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="pin">端口编号</param>
+      <param name="mode">端口特性</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetPWM(System.Int32,System.Byte)">
+      <summary>
+            设置脉宽调制
+            </summary>
+      <remarks>设置脉宽调制</remarks>
+      <param name="pin">PWM端口编号</param>
+      <param name="value">脉宽值(0-255)</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetPWM(System.String,System.Int32,System.Byte)">
+      <summary>
+            设置脉宽调制(子系统)
+            </summary>
+      <remarks>设置脉宽调制(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="pin">PWM端口编号</param>
+      <param name="value">脉宽值(0-255)</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetServor(System.Int32,System.Byte)">
+      <summary>
+            设置伺服电机
+            </summary>
+      <remarks>设置伺服电机</remarks>
+      <param name="pin">伺服务电机端口编号</param>
+      <param name="pot">旋转角度(0-180度)</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetServor(System.String,System.Int32,System.Byte)">
+      <summary>
+            设置伺服电机(子系统)
+            </summary>
+      <remarks>设置伺服电机(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="pin">伺服务电机端口编号</param>
+      <param name="pot">旋转角度(0-180度)</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetSteper(System.Int32,System.Byte,System.Byte,System.Byte,System.Byte,System.Int32,System.Int32)">
+      <summary>
+            设置四线步进电机
+            </summary>
+      <remarks>设置四线步进电机</remarks>
+      <param name="steps">步进基数</param>
+      <param name="pin1">组1端口1</param>
+      <param name="pin2">组1端口2</param>
+      <param name="pin3">组2端口1</param>
+      <param name="pin4">组2端口2</param>
+      <param name="speed">转频</param>
+      <param name="doStep">步进值</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SetSteper(System.String,System.Int32,System.Byte,System.Byte,System.Byte,System.Byte,System.Int32,System.Int32)">
+      <summary>
+            设置四线步进电机
+            </summary>
+      <remarks>设置四线步进电机</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="steps">步进基数</param>
+      <param name="pin1">组1端口1</param>
+      <param name="pin2">组1端口2</param>
+      <param name="pin3">组2端口1</param>
+      <param name="pin4">组2端口2</param>
+      <param name="speed">转频</param>
+      <param name="doStep">步进值</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.Get18B20(System.Byte)">
+      <summary>
+            取得18B20湿度传感器值
+            </summary>
+      <remarks>取得18B20湿度传感器值</remarks>
+      <param name="pin">18B20湿度传感器端口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.Get18B20(System.String,System.Byte)">
+      <summary>
+            取得18B20湿度传感器值(子系统)
+            </summary>
+      <remarks>取得18B20湿度传感器值(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="pin">18B20湿度传感器端口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.GetDigital(System.Byte)">
+      <summary>
+            取得数字端口值
+            </summary>
+      <remarks>取得数字端口值</remarks>
+      <param name="pin">数字端口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.GetDigital(System.String,System.Byte)">
+      <summary>
+            取得数字端口值(子系统)
+            </summary>
+      <remarks>取得数字端口值(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="pin">数字端口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.GetAnalog(System.Byte)">
+      <summary>
+            取得模拟端口值
+            </summary>
+      <remarks>取得模拟端口值</remarks>
+      <param name="pin">模拟端口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.GetAnalog(System.String,System.Byte)">
+      <summary>
+            取得模拟端口值(子系统)
+            </summary>
+      <remarks>取得模拟端口值(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="pin">模拟端口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.GetAllDigitalAndAnalog(System.Int32,System.Int32)">
+      <summary>
+            取得所有数字模拟端口值
+            </summary>
+      <remarks>取得所有数字模拟端口值</remarks>
+      <param name="digitalMax">硬件最大数字接口编号</param>
+      <param name="analogMax">硬件最大模拟接口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.GetAllDigitalAndAnalog(System.String,System.Int32,System.Int32)">
+      <summary>
+            取得所有数字模拟端口值(子系统)
+            </summary>
+      <remarks>取得所有数字模拟端口值(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="digitalMax">硬件最大数字接口编号</param>
+      <param name="analogMax">硬件最大模拟接口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.runIRReader(System.Byte)">
+      <summary>
+            启动红外线遥控器学习功能
+            </summary>
+      <remarks>启动红外线遥控器学习功能</remarks>
+      <param name="pin">遥控器红外线接收器所在端口编号</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SendIRRemote(System.String)">
+      <summary>
+            产生红外线遥控信号指令
+            </summary>
+      <remarks>产生红外线遥控信号指令</remarks>
+      <param name="IRorder">遥控器红外线指令</param>
+    </member>
+    <member name="M:DYsmartWinClient.DYsmart.SendIRRemote(System.String,System.String)">
+      <summary>
+            产生红外线遥控信号指令(子系统)
+            </summary>
+      <remarks>产生红外线遥控信号指令(子系统)</remarks>
+      <param name="DYid">硬件设备ID</param>
+      <param name="IRorder">遥控器红外线指令</param>
+    </member>
+    <member name="T:DYsmartWinClient.IOs">
+      <summary>
+            端口集数据定义
+            </summary>
+      <remarks>端口集数据定义</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.ResetAll">
+      <summary>
+            初始化
+            </summary>
+      <remarks>初始化</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SetPwd">
+      <summary>
+            修改安全口令
+            </summary>
+      <remarks>修改安全口令</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.BeginSerial">
+      <summary>
+            启动串口通信
+            </summary>
+      <remarks>启动串口通信</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SerialSend">
+      <summary>
+            发送串口消息
+            </summary>
+      <remarks>发送串口消息</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.PinMode">
+      <summary>
+            设置端口特性
+            </summary>
+      <remarks>设置端口特性</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SetDigital">
+      <summary>
+            设置数字端口操作
+            </summary>
+      <remarks>设置数字端口操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SetPWM">
+      <summary>
+            设置脉宽调频操作
+            </summary>
+      <remarks>设置脉宽调频操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SetServo">
+      <summary>
+            伺服电机操作
+            </summary>
+      <remarks>伺服电机操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SetSteper">
+      <summary>
+            步进电机操作
+            </summary>
+      <remarks>步进电机操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.Get18B20">
+      <summary>
+            18B20温度传感器操作
+            </summary>
+      <remarks>18B20温度传感器操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.GetDigital">
+      <summary>
+            取得数字端口值操作
+            </summary>
+      <remarks>取得数字端口值操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.GetAnalog">
+      <summary>
+            取得模拟端口值操作
+            </summary>
+      <remarks>取得模拟端口值操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.GetAllDigitalAndAnalog">
+      <summary>
+            取得所有数字模拟端口值操作
+            </summary>
+      <remarks>取得所有数字模拟端口值操作</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.runIRReader">
+      <summary>
+            启动遥控器红外线学习功能
+            </summary>
+      <remarks>启动遥控器红外线学习功能</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.IRReadOnData">
+      <summary>
+            红外红学习数据通知
+            </summary>
+      <remarks>红外红学习数据通知</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SendIRRemote">
+      <summary>
+            发送遥控红外线信号指令
+            </summary>
+      <remarks>发送遥控红外线信号指令</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.operations.SerialOnData">
+      <summary>
+            串口消息到达通知
+            </summary>
+      <remarks>串口消息到达通知</remarks>
+    </member>
+    <member name="T:DYsmartWinClient.dMode">
+      <summary>
+            端口数字操作类型
+            </summary>
+      <remarks>端口数字操作类型</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.dMode.LOW">
+      <summary>
+            端口数字操作
+            </summary>
+      <remarks>将数字端口设置为高电位</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.dMode.HIGH">
+      <summary>
+            端口数字操作
+            </summary>
+      <remarks>将数字端口设置为低电位</remarks>
+    </member>
+    <member name="T:DYsmartWinClient.pMode">
+      <summary>
+            端口特性类型
+            </summary>
+      <remarks>端口特性类型</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.pMode.INPUT">
+      <summary>
+            端口特性
+            </summary>
+      <remarks>将端口设置为输入装置模式</remarks>
+    </member>
+    <member name="F:DYsmartWinClient.pMode.OUTPUT">
+      <summary>
+            端口特性
+            </summary>
+      <remarks>将端口设置为输出装置模式</remarks>
+    </member>
+  </members>
+</doc>

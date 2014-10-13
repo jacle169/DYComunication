@@ -1,0 +1,20 @@
+package DYComAndroidClient;
+
+import java.net.InetAddress;
+import java.net.Socket;
+
+//以下权限标识必须放到项目的AndroidManifest.xml文件的Manifest节点中
+//<uses-permission android:name="android.permission.INTERNET" />  
+
+public class DYComADClient {
+	private Socket client;  
+	public DYComADClient()
+	{
+		
+	}
+	
+	public void connect(String serverIP,int port)
+	{
+		this.client = new Socket(InetAddress.getByName(serverIP),port);   
+	}
+}

@@ -1,0 +1,19 @@
+c:\users\jac\documents\visual studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.dll
+c:\users\jac\documents\visual studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.pdb
+c:\users\jac\documents\visual studio 2010\Projects\DYComunication\DYComSLClient\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jac\documents\visual studio 2010\Projects\DYComunication\DYComSLClient\obj\Debug\DYComSLClient.dll
+c:\users\jac\documents\visual studio 2010\Projects\DYComunication\DYComSLClient\obj\Debug\DYComSLClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYComSLClient\Bin\Debug\DYComSLClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComSLClient\Bin\Debug\DYComSLClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYComSLClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication9.8\DYComSLClient\obj\Debug\DYComSLClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComSLClient\obj\Debug\DYComSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSLClient\obj\Debug\DYComSLClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSLClient\obj\Debug\DYComSLClient.pdb
+D:\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.XML
+D:\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.dll
+D:\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Debug\DYComSLClient.pdb
+D:\Visual Studio 2010\Projects\DYComunication\DYComSLClient\obj\Debug\DYComSLClient.dll
+D:\Visual Studio 2010\Projects\DYComunication\DYComSLClient\obj\Debug\DYComSLClient.pdb

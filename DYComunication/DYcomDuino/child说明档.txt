@@ -1,0 +1,78 @@
+1.接收消息:100byte
+消息逻辑id(byte)+指令长度(byte)+指令内容
+a)逻辑id(1:新消息,2:续加消息，3:消息尾,4:单条消息)
+b)本消息的指令内容长度
+c)指令内容
+
+2.接收消息:
+指令id(int)+指令长度(int)+指令内容
+b)指令：4位byte(int)
+c)指令长度：int(相加结果为指令长度)
+d)指令内容：按指令长度读取指令内容
+
+3.发送协议
+
+a)指令id+指令内容
+
+1.设置硬件id指令
+指令体：指令头+20101937+id(int)
+指令头 1
+EEPROM地址：0-3
+
+2.设置pinMode指令
+指令体：指令头+mode+pin
+指令头 2
+EEPROM地址：
+
+3.setPWM(设置脉冲变频值）
+指令头：3
+指令体：值+Pin(Pwm)
+值:0-255(byte)
+return: 3:
+(pin范围2-13);
+
+4.stepperGo(初始化步进电机及)
+指令头：4:
+指令体：进步电机类型100/200(int)+四个引脚所在IO(4pin)[4byte]+
+转速(int)+转动值(int)
+return: 4:
+
+5.setServoPot(设置舵机旋转角度)
+指令头：5
+指令体：值+pin(pwm)
+值：0-180(byte)
+return 5:
+
+7.getDigital(取数字IO值)
+指令头：7
+指令体：Digital Pin
+return 7: + digital值
+
+8.getAll(取得所有IO当前状态)
+指令头：8
+指令体：指令头
+return 8: + digitalPin+,+analogPin+(尾\n|非尾,)
+
+14.sendIRorder(发送IR指令)
+指令体:密码+指令
+指令头：14
+指令体：IR指令组Bytes(一组由intTObytes数组组成);
+备注：指令string前后加700,;
+return 14:
+
+15.get18b20(读取18b20温度传感器数据)
+指令体:密码+指令
+指令头：15
+指令体：pin(byte)[元件所在数字io]
+return 15:+C度
+
+
+备注：
+1.IR发送pin 3
+2.比特率19200
+
+
+
+
+
+

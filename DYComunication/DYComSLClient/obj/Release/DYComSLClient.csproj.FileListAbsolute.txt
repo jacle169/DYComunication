@@ -1,0 +1,18 @@
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.XML
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.dll
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.pdb
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLClient\obj\Release\ResolveAssemblyReference.cache
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLClient\obj\Release\DYComSLClient.dll
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLClient\obj\Release\DYComSLClient.pdb
+C:\Users\jac\Desktop\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.dll
+C:\Users\jac\Desktop\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.pdb
+C:\Users\jac\Desktop\DYComunication\DYComSLClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication\DYComSLClient\obj\Release\DYComSLClient.dll
+C:\Users\jac\Desktop\DYComunication\DYComSLClient\obj\Release\DYComSLClient.pdb
+C:\Users\jac\Desktop\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.XML
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.XML
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLClient\Bin\Release\DYComSLClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLClient\obj\Release\DYComSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLClient\obj\Release\DYComSLClient.pdb

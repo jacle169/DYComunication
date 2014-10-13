@@ -1,0 +1,32 @@
+package DYComAndroidClient;
+
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.net.Socket;
+
+//以下权限标识必须放到项目的AndroidManifest.xml文件的Manifest节点中
+//<uses-permission android:name="android.permission.INTERNET" />  
+
+public class DYComADClient {
+	private Socket socket;  
+    private BufferedReader in = null;  
+    private BufferedWriter out = null;  
+    
+	public DYComADClient()
+	{
+		
+	}
+	
+	public void connect(String serverIP,int port)
+	{
+        try {  
+            socket = new Socket(serverIP, port);  
+            in = new BufferedReader(new InputStreamReader(socket.getInputStream()));  
+            out = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream()));  
+        } catch (Exception ex) {}   
+	}
+}

@@ -1,0 +1,16 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspTestClient\bin\DYsmartAspTestClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspTestClient\bin\DYsmartAspTestClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspTestClient\bin\DYsmartWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspTestClient\bin\DYsmartWinClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspTestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspTestClient\obj\Debug\DYsmartAspTestClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspTestClient\obj\Debug\DYsmartAspTestClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\bin\DYsmartAspTestClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\bin\DYsmartAspTestClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\bin\DYsmartWinClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\bin\DYsmartWinClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\obj\Debug\DYsmartAspTestClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\obj\Debug\DYsmartAspTestClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\bin\DYsmartAspClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartAspTestClient\bin\DYsmartAspClient.pdb

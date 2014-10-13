@@ -1,0 +1,6 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\Bin\Release\DYsmartSLClient.XML
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\Bin\Release\DYsmartSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\Bin\Release\DYsmartSLClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Release\DYsmartSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Release\DYsmartSLClient.pdb

@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1290972814079
+started,bundle,org.eclipse.wst.xsl.ui,1.1.0.v201004290328,"org.eclipse.wst.xsl.ui",1290972814154
+opened,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972814916
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972815056
+started,bundle,org.eclipse.jem.workbench,2.0.300.v200910290230,"org.eclipse.jem.workbench",1290972815341
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1290972816185
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290972819771
+opened,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972824515
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972824958
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290972827265
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972834014
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972835603
+closed,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972835603
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290972837479
+opened,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.xml.XmlEditor",1290972842644
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.xml.XmlEditor",1290972842704
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972844716
+closed,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.xml.XmlEditor",1290972844716
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290972845751
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290972850096
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290972850170
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972856574
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290972859047
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972861585
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290972867597
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972869344
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290972872928
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972876278
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290972881020
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290972884195
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290972906087
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290972907805
+closed,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290972907906
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290972908022
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1290972908034
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1290972908034
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908250
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908253
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908255
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908257
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908258
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908260
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908262
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908264
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908265
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908267
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908270
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908271
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908273
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908274
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908277
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908278
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908281
+error,log,,,"Unable to get nature of project 'DYcomAndroidClient'.",1290972908282
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290972912023
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1290972941804
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1290972943320
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1290972944673
+error,log,,,"Failed to load properties file for project 'DYcom'",1290972961513
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290972961774
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.newWizard",1290972961818
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290972969696
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290972969827
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290972976436
+opened,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972977033
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290972977154
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290972985082
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290972991632
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973006977
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973007838
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973008014
+closed,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973008014
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973009297
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973012947
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973013046
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973066884
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973067695
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973067842
+closed,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973067843
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973069481
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973075137
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973078383
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973078711
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973078883
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973079538
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973079677
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973157807
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973165412
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973167539
+error,log,,,"No command output when running: 'am start -D -n DYcom.Android/DYcom.Android.Android -a android.intent.action.MAIN -c android.intent.category.LAUNCHER' on device emulator-5554",1290973168784
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973183797
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973184983
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973188592
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973190277
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973202510
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973205335
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973205415
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973212083
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973215900
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973220628
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973220895
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973245082
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973245271
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973258588
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973260786
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973263873
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973266547
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973281899
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973283240
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973301156
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973304483
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973326348
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973327718
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973330330
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973331780
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973350634
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973354160
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973363332
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973365245
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973367897
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973371202
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973382830
+opened,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.SourceView",1290973389858
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.SourceView",1290973389888
+activated,view,org.eclipse.debug.ui,3.6.0.v20100601-1530,"org.eclipse.debug.ui.DebugView",1290973390939
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1290973401851
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973415992
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973418034
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973425678
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973425932
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973426005
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973436223
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973438373
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973438548
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973444501
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973447488
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973448789
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.project.cleanAction",1290973448801
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973454246
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973454276
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973458746
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973460671
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973463830
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973464037
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973468230
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973469161
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973469343
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973477279
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973478939
+closed,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973478939
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973484356
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973487418
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973489971
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973503370
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973503419
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973513881
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973514071
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973514117
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973517105
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973517269
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973521230
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973525329
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973525523
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973528468
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973528732
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973530713
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973530882
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973530952
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973546205
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973585136
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973586405
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973586599
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973589192
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973589193
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973590767
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973593225
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973599410
+closed,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973599410
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973601828
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973604376
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973613147
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973618530
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973619838
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1290973619850
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1290973619850
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973619852
+closed,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973619996
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620426
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620428
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620431
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620433
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620435
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620438
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620439
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620441
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620443
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620445
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620447
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620448
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620450
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620453
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620455
+error,log,,,"Unable to get nature of project 'DYcom'.",1290973620458
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973623461
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1290973671556
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1290973672950
+error,log,,,"Failed to load properties file for project 'DYcomClient'",1290973676858
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973676972
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.newWizard",1290973677021
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973680445
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973680522
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973682468
+opened,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973682703
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973682844
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973688264
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973691010
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973694346
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973710084
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973711870
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973715707
+opened,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973725558
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973725684
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973727634
+closed,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973727635
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973728625
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973729891
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973729957
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973733928
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1290973735247
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PropertiesFileEditor",1290973735247
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973736497
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973741389
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973741477
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973748885
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973750866
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973752512
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.project.cleanAction",1290973752527
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973759642
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1290973766197
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973768956
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973770467
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.project.cleanAction",1290973770483
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973772567
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1290973774654
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973777139
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1290973793821
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1290973795026
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1290973800351
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973810796
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1290973810933

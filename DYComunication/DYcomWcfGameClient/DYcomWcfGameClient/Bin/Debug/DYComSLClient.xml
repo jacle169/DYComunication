@@ -1,0 +1,945 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>DYComSLClient</name>
+  </assembly>
+  <members>
+    <member name="T:DYComSLClient.DYWriter">
+      <summary>
+            数据包格式化类
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.Merge(System.Byte[][])">
+      <summary>
+            将1个2维数据包整合成以个一维数据包
+            </summary>
+      <param name="args">
+      </param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.Int32)">
+      <summary>
+            将一个32位整形转换成一个BYTE[]4字节
+            </summary>
+      <param name="data">
+      </param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.Int16)">
+      <summary>
+            将一个16位整形转换成一个BYTE[]2字节
+            </summary>
+      <param name="data">
+      </param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.Double)">
+      <summary>
+            将一个Double值转换成一个BYTE[]4字节
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.DateTime)">
+      <summary>
+            将一个DateTime值转换成一个BYTE[]8字节
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.Boolean)">
+      <summary>
+            将一个Bool值转换成一个BYTE(True:1,False:0)
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.Int64)">
+      <summary>
+            将一个64位整型转换成以个BYTE[] 8字节
+            </summary>
+      <param name="data">
+      </param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.Byte)">
+      <summary>
+            将一个 1位CHAR转换成1位的BYTE
+            </summary>
+      <param name="data">
+      </param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.Byte[])">
+      <summary>
+            将一个BYTE[]数据包添加首位长度
+            </summary>
+      <param name="data">
+      </param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYWriter.GetDYBytes(System.String,System.Text.Encoding)">
+      <summary>
+            将一个字符串转换成BYTE[]，BYTE[]的首位是字符串的长度
+            </summary>
+      <param name="data">数据</param>
+      <param name="encoder">编码器</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="T:DYComSLClient.DYReader">
+      <summary>
+            DYCom消息读取器
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.DYReader.Current">
+      <summary>
+            游标
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYReader.Reset">
+      <summary>
+            重置内存流指针
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYReader.#ctor(System.Byte[])">
+      <summary>
+            DYCom消息读取器
+            </summary>
+      <remarks>读取消息中的内容</remarks>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadInt32(System.Int32@)">
+      <summary>
+            读取内存流中的4位并转换成整型
+            </summary>
+      <param name="values">内存流</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadDouble(System.Double@)">
+      <summary>
+            读取内存流中的Double值
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadInt64(System.Int64@)">
+      <summary>
+            读取内存流中的Long值
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadBool(System.Boolean@)">
+      <summary>
+            读取内存流中的Bool值
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadDateTime(System.DateTime@)">
+      <summary>
+            读取内存流中的DataTime值
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadByte(System.Byte@)">
+      <summary>
+            读取内存流中的首位
+            </summary>
+      <param name="values">读出变量</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadInt16(System.Int16@)">
+      <summary>
+            读取内存流中的2位并转换成整型
+            </summary>
+      <param name="values">读出变量</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadString(System.String@,System.Text.Encoding)">
+      <summary>
+            读取内存流中一段字符串
+            </summary>
+      <param name="values">读出变量</param>
+      <param name="encoder">解码器</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYReader.ReadByteArray(System.Byte[]@)">
+      <summary>
+            读取内存流中一段数据
+            </summary>
+      <param name="values">读出变量</param>
+      <returns>
+      </returns>
+    </member>
+    <member name="M:DYComSLClient.DYReader.GetCurrentToEnd">
+      <summary>
+            读取内存流中剩余部份
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.DYReader.Length">
+      <summary>
+            内存流长度
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.ClientPoxy">
+      <summary> 
+            DYComSilverlight客户端
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.ClientPoxy.#ctor(System.String,System.Int32,System.Int32)">
+      <summary>
+            DYcom客户端代理
+            </summary>
+      <param name="ServerIP">服务器IP地址</param>
+      <param name="Port">连接端口</param>
+      <param name="BufferCount">缓冲区大小</param>
+    </member>
+    <member name="M:DYComSLClient.ClientPoxy.Send(System.Byte[])">
+      <summary>
+            发送消息
+            </summary>
+      <remarks>发送一条BYTE[]消息到服务端</remarks>
+      <param name="buff">消息体</param>
+    </member>
+    <member name="F:DYComSLClient.ClientPoxy.outQueue">
+      <summary>
+            发送消息队列
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.ClientPoxy.Dispose">
+      <summary>
+            释放此客户端代理
+            </summary>
+      <remarks>不须刻意调用,系统自动处理</remarks>
+    </member>
+    <member name="P:DYComSLClient.ClientPoxy.onConnet">
+      <summary> 
+            DYComSilverlight连接代理属性
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.ClientPoxy.onData">
+      <summary> 
+            DYComSilverlight数据代理属性
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.ClientPoxy.onDisconnet">
+      <summary> 
+            DYComSilverlight断开连接代理属性
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.JsonWriter">
+      <summary> 
+            dyjson写入器
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.#ctor">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.#ctor(System.Text.StringBuilder)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.#ctor(System.IO.TextWriter)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.ToString">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Reset">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Write(System.Boolean)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Write(System.Decimal)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Write(System.Double)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Write(System.Int32)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Write(System.Int64)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Write(System.String)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.Write(System.UInt64)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.WriteArrayEnd">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.WriteArrayStart">
+      <summary> 
+            dyjson写入数组
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.WriteObjectEnd">
+      <summary> 
+            dyjson读入强类型
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.WriteObjectStart">
+      <summary> 
+            dyjson写入强类型到头部
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonWriter.WritePropertyName(System.String)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonWriter.IndentValue">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonWriter.PrettyPrint">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonWriter.TextWriter">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonWriter.Validate">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.JsonToken">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.None">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.ObjectStart">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.PropertyName">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.ObjectEnd">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.ArrayStart">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.ArrayEnd">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.Int">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.Long">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.Double">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.String">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.Boolean">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonToken.Null">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.JsonReader">
+      <summary> 
+            dyjson提取器
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonReader.#ctor(System.String)">
+      <summary> 
+            dyjson提取器
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonReader.#ctor(System.IO.TextReader)">
+      <summary> 
+            dyjson提取器
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonReader.Close">
+      <summary> 
+            dyjson关闭
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonReader.Read">
+      <summary> 
+            dyjson读取
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonReader.AllowComments">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonReader.AllowSingleQuotedStrings">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonReader.EndOfInput">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonReader.EndOfJson">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonReader.Token">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonReader.Value">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.JsonType">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.None">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.Object">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.Array">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.String">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.Int">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.Long">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.Double">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="F:DYComSLClient.JsonType.Boolean">
+      <summary> 
+            dyjson类型集
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.IJsonWrapper">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.GetBoolean">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.GetDouble">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.GetInt">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.GetJsonType">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.GetLong">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.GetString">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.SetBoolean(System.Boolean)">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.SetDouble(System.Double)">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.SetInt(System.Int32)">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.SetJsonType(DYComSLClient.JsonType)">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.SetLong(System.Int64)">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.SetString(System.String)">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.ToJson">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.IJsonWrapper.ToJson(DYComSLClient.JsonWriter)">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.IJsonWrapper.IsArray">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.IJsonWrapper.IsBoolean">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.IJsonWrapper.IsDouble">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.IJsonWrapper.IsInt">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.IJsonWrapper.IsLong">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.IJsonWrapper.IsObject">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.IJsonWrapper.IsString">
+      <summary> 
+            dyjson地图
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.JsonException">
+      <summary> 
+            dyJson错误处理
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonException.#ctor">
+      <summary> 
+            dyJson错误处理
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonException.#ctor(System.String)">
+      <summary> 
+            dyJson错误处理
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonException.#ctor(System.String,System.Exception)">
+      <summary> 
+            dyJson错误处理
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.DYcryption">
+      <summary> 
+            加密解密功能
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.DYcryption.EncryptAES(System.Byte[],System.String)">
+      <summary> 
+            加密byte[]消息内容
+            </summary>
+      <param name="input">被加密内容</param>
+      <param name="password">加密口令，密须为8位字符串，否则返加null值</param>
+      <returns>加密后byte[]消息内容</returns>
+    </member>
+    <member name="M:DYComSLClient.DYcryption.DecryptAES(System.Byte[],System.String)">
+      <summary> 
+            解密byte[]消息内容
+            </summary>
+      <param name="Input">被解密内容</param>
+      <param name="password">解密口令，与加密口令一致才能正常解密，须为8位字符串，否则返加null值</param>
+      <returns>解密后byte[]消息内容</returns>
+    </member>
+    <member name="T:DYComSLClient.ExporterFunc`1">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.ImporterFunc`2">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.WrapperFactory">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.JsonMapper">
+      <summary> 
+            dyjson内联器
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.#ctor">
+      <summary> 
+            dyjson内联器
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToJson(System.Object)">
+      <summary> 
+            编码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToJson(System.Object,DYComSLClient.JsonWriter)">
+      <summary> 
+            编码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToObject(DYComSLClient.JsonReader)">
+      <summary> 
+            解码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToObject(System.IO.TextReader)">
+      <summary> 
+            解码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToObject(System.String)">
+      <summary> 
+            解码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToObject``1(DYComSLClient.JsonReader)">
+      <summary> 
+            解码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToObject``1(System.IO.TextReader)">
+      <summary> 
+            解码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToObject``1(System.String)">
+      <summary> 
+            解码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToWrapper(DYComSLClient.WrapperFactory,DYComSLClient.JsonReader)">
+      <summary> 
+            低级码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.ToWrapper(DYComSLClient.WrapperFactory,System.String)">
+      <summary> 
+            低级码json数据流
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.RegisterExporter``1(DYComSLClient.ExporterFunc{``0})">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.RegisterImporter``2(DYComSLClient.ImporterFunc{``0,``1})">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.UnregisterExporters">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonMapper.UnregisterImporters">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.JsonData">
+      <summary> 
+            dyjson数据
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.#ctor">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.#ctor(System.Boolean)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.#ctor(System.Double)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.#ctor(System.Int32)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.#ctor(System.Int64)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.#ctor(System.Object)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.#ctor(System.String)">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Implicit(System.Boolean)~DYComSLClient.JsonData">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Implicit(System.Double)~DYComSLClient.JsonData">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Implicit(System.Int32)~DYComSLClient.JsonData">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Implicit(System.Int64)~DYComSLClient.JsonData">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Implicit(System.String)~DYComSLClient.JsonData">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Explicit(DYComSLClient.JsonData)~System.Boolean">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Explicit(DYComSLClient.JsonData)~System.Double">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Explicit(DYComSLClient.JsonData)~System.Int32">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Explicit(DYComSLClient.JsonData)~System.Int64">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.op_Explicit(DYComSLClient.JsonData)~System.String">
+      <summary> 
+            dyjson
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.Add(System.Object)">
+      <summary> 
+            dyjson添加值
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.Clear">
+      <summary> 
+            dyjson清空
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.Equals(DYComSLClient.JsonData)">
+      <summary> 
+            dyjson等于运算符
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.GetJsonType">
+      <summary> 
+            dyjson取json类型
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.SetJsonType(DYComSLClient.JsonType)">
+      <summary> 
+            dyjson设置json类型
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.ToJson">
+      <summary> 
+            dyjson提取
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.ToJson(DYComSLClient.JsonWriter)">
+      <summary> 
+            dyjson提取
+            </summary>
+    </member>
+    <member name="M:DYComSLClient.JsonData.ToString">
+      <summary> 
+            dyjson重构之tostring
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.Count">
+      <summary> 
+            dyjson数据长度
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.IsArray">
+      <summary> 
+            dyjson数据是否数组
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.IsBoolean">
+      <summary> 
+            dyjson数据是否布尔值
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.IsDouble">
+      <summary> 
+            dyjson数据是否多精度值
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.IsInt">
+      <summary> 
+            dyjson数据是否数字整型
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.IsLong">
+      <summary> 
+            dyjson数据数字长型
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.IsObject">
+      <summary> 
+            dyjson数据是否强类型
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.IsString">
+      <summary> 
+            dyjson数据是否字符串
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.Item(System.String)">
+      <summary>
+            dyjson
+            </summary>
+    </member>
+    <member name="P:DYComSLClient.JsonData.Item(System.Int32)">
+      <summary>
+            dyjson
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.OnConnet">
+      <summary>
+            连接通知代理
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.OnData">
+      <summary>
+            消息通知代理
+            </summary>
+    </member>
+    <member name="T:DYComSLClient.OnDisConnet">
+      <summary>
+            错误通知代理
+            </summary>
+    </member>
+  </members>
+</doc>

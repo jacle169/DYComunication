@@ -1,0 +1,223 @@
+package funsl.com;
+
+import java.io.BufferedReader;  
+import java.io.BufferedWriter;  
+import java.io.InputStreamReader;  
+import java.io.OutputStreamWriter;  
+import java.io.PrintWriter;  
+import java.net.Socket;  
+import java.util.ArrayList;
+import java.util.Date;
+
+import org.apache.http.util.EncodingUtils;
+  
+import android.app.Activity;  
+import android.app.AlertDialog;  
+import android.content.DialogInterface;  
+import android.os.Bundle;  
+import android.os.Handler;  
+import android.os.Message;  
+import android.util.Log;  
+import android.view.View;  
+import android.widget.Button;  
+import android.widget.EditText;  
+import android.widget.TextView; 
+
+public class helloAD extends Activity implements Runnable {
+	/** Called when the activity is first created. */  
+    private TextView tv_msg = null;  
+    private EditText ed_msg = null;  
+    private Button btn_send = null;  
+    private Button btn_login = null;  
+    private static final String HOST = "192.168.0.2";  
+    private static final int PORT = 4510;  
+    private Socket socket = null;  
+    private BufferedReader in = null;  
+    private PrintWriter out = null;  
+    private String content = "";  
+    
+   private int login=0;
+    
+
+    public int bytesToInt(byte[] bytes) { 
+    	int num = bytes[0] & 0xFF; 
+    	num |= ((bytes[1] << 8) & 0xFF00); 
+    	num |= ((bytes[2] << 16) & 0xFF0000); 
+    	num |= ((bytes[3] << 24) & 0xFF000000); 
+    	return num; 
+    }
+    
+    public long getLong(byte[] array) 
+    {
+      return
+        ((long)(array[7] & 0xff) << 56) |
+        ((long)(array[6] & 0xff) << 48) |
+        ((long)(array[5] & 0xff) << 40) |
+        ((long)(array[4] & 0xff) << 32) |
+        ((long)(array[3] & 0xff) << 24) |
+        ((long)(array[2] & 0xff) << 16) |
+        ((long)(array[1] & 0xff) << 8)  |
+        ((long)(array[0] & 0xff));
+    }
+    
+    @Override  
+    public void onCreate(Bundle savedInstanceState) {  
+        super.onCreate(savedInstanceState);  
+        setContentView(R.layout.main);  
+        tv_msg = (TextView) this.findViewById(R.id.TextView);  
+        ed_msg = (EditText) this.findViewById(R.id.EditText01);  
+        btn_login = (Button) this.findViewById(R.id.Button01);  
+        btn_send = (Button) this.findViewById(R.id.Button02);  
+        try {  
+            socket = new Socket(HOST, PORT);  
+            in = new BufferedReader(new InputStreamReader(socket  
+                    .getInputStream()));  
+            out = new PrintWriter(new BufferedWriter(  
+                    new OutputStreamWriter(socket.getOutputStream())),  
+                    true);  
+        } catch (Exception ex) {  
+            ex.printStackTrace();  
+            ShowDialog("登陆异常:" + ex.getMessage());  
+        }  
+        btn_send.setOnClickListener(new Button.OnClickListener() {  
+            public void onClick(View v) {  
+                // TODO Auto-generated method stub  
+                //String msg = ed_msg.getText().toString(); 
+            	ArrayList<byte[]> myMsg=new ArrayList<byte[]>();
+            	myMsg.add(getSocketBytes(login));//操作符
+            	//myMsg.addAll(getSocketBytes(ed_msg.getText().toString(), "utf-8"));   
+            	Date   curDate   =   new   Date(System.currentTimeMillis());
+            	
+            	myMsg.add(getSocketBytes(curDate));
+                send(myMsg);
+            }  
+  
+        });  
+        new Thread(this).start();  
+    }
+    
+    public byte[] getSocketBytes(Date values)
+    {
+       return getSocketBytes(values.getTime());
+    }
+    
+    public byte[] getSocketBytes(long value) 
+    {
+    	byte[] array =new byte[8];
+        array[7] = (byte)(0xff & (value >> 56));
+        array[6] = (byte)(0xff & (value >> 48));
+        array[5] = (byte)(0xff & (value >> 40));
+        array[4] = (byte)(0xff & (value >> 32));
+        array[3] = (byte)(0xff & (value >> 24));
+        array[2] = (byte)(0xff & (value >> 16));
+        array[1] = (byte)(0xff & (value >> 8));
+        array[0] = (byte)(0xff & value);
+        return array;
+    }
+    
+    public byte[] getSocketBytes(short values)
+    {
+    	byte[] bt = new byte[2]; 
+    	bt[0] = (byte) (0xff & values); 
+    	bt[1] = (byte) ((0xff00 & values) >> 8); 
+    	return bt;
+    }
+    
+    public byte[] getSocketBytes(byte values)
+    {
+    	byte[] bt = new byte[1]; 
+    	bt[0] = values;
+    	return bt;
+    }
+    
+    public ArrayList<byte[]> getSocketBytes(String values, String charter)
+    {
+    	ArrayList<byte[]> myMsg=new ArrayList<byte[]>();
+    	byte[] strMsg = EncodingUtils.getBytes(values, charter);
+    	myMsg.add(getSocketBytes(strMsg.length));
+    	myMsg.add(strMsg);
+    	return myMsg;
+    }
+    
+    public byte[] getSocketBytes(int values) 
+    { 
+    	byte[] bt = new byte[4]; 
+    	bt[0] = (byte) (0xff & values); 
+    	bt[1] = (byte) ((0xff00 & values) >> 8); 
+    	bt[2] = (byte) ((0xff0000 & values) >> 16); 
+    	bt[3] = (byte) ((0xff000000 & values) >> 24); 
+    	return bt; 
+    } 
+    
+    public void send(ArrayList<byte[]> msg)
+    {
+      if (socket.isConnected()) { 
+        if (!socket.isOutputShutdown()) {
+            int tempLength = 4;
+            for (byte[] tempByte : msg)
+            {
+                tempLength += tempByte.length;  //复制数据包到新数据包
+            }
+         writeBytes(getSocketBytes(tempLength));
+         for(byte[] tempByte:msg)
+         {
+        	writeBytes(tempByte); 
+         }
+    	 out.flush();
+    	}
+      }
+    }
+    
+    public void writeBytes(byte[] data)
+    {
+        if (socket.isConnected()) { 
+            if (!socket.isOutputShutdown()) { 
+            for(int i=0;i<data.length;i++)
+            {
+            	out.write(data[i]);
+            }
+          }  
+        }  
+    }
+  
+    public void ShowDialog(String msg) {  
+        new AlertDialog.Builder(this).setTitle("提示").setMessage(msg)  
+                .setPositiveButton("OK", new DialogInterface.OnClickListener() {  
+  
+                    public void onClick(DialogInterface dialog, int which) {  
+                        // TODO Auto-generated method stub  
+  
+                    }  
+  
+                }).show();  
+    }  
+  
+    public void run() {  
+        try {  
+            while (true) {  
+                if(socket.isConnected()){  
+                    if(!socket.isInputShutdown()){  
+                        if ((content = in.readLine()) != null) {  
+                            Log.i("TAG", "++ "+content);  
+                            content += "\n";  
+                            mHandler.sendMessage(mHandler.obtainMessage());  
+                        }else{  
+                              
+                        }  
+                    }  
+                }  
+                  
+            }  
+        } catch (Exception ex) {  
+            ex.printStackTrace();  
+        }  
+    }  
+  
+    public Handler mHandler = new Handler() {  
+        public void handleMessage(Message msg) {  
+            super.handleMessage(msg);  
+            Log.i("TAG", "-- "+msg);  
+            tv_msg.setText(tv_msg.getText().toString() + content);  
+        }  
+    };  
+}

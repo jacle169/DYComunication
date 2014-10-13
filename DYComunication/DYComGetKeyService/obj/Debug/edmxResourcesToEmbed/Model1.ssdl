@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dylcModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="dylcModelStoreContainer">
+    <EntitySet Name="UserKeyTable" EntityType="dylcModel.Store.UserKeyTable" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="UserKeyTable">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="PDKey" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="RegTime" Type="datetime" Nullable="false" />
+    <Property Name="EnableTime" Type="datetime" Nullable="false" />
+    <Property Name="IsForever" Type="bit" Nullable="false" />
+    <Property Name="IsUsing" Type="bit" Nullable="false" />
+    <Property Name="UserMail" Type="nvarchar" MaxLength="100" />
+    <Property Name="UserMobile" Type="nvarchar" MaxLength="11" />
+    <Property Name="UserQQ" Type="nvarchar" MaxLength="15" />
+  </EntityType>
+</Schema>

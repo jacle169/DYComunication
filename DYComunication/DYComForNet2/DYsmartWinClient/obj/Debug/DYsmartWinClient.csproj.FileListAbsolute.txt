@@ -1,0 +1,15 @@
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartWinClient\bin\Debug\DYsmartWinClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartWinClient\bin\Debug\DYsmartWinClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartWinClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartWinClient\obj\Debug\DYsmartWinClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYsmartWinClient\obj\Debug\DYsmartWinClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\bin\Debug\DYsmartWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\bin\Debug\DYsmartWinClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\obj\Debug\DYsmartWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\obj\Debug\DYsmartWinClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\bin\Debug\DYsmartWinClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\bin\Debug\DYsmartWinClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\obj\Debug\DYsmartWinClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYsmartWinClient\obj\Debug\DYsmartWinClient.pdb

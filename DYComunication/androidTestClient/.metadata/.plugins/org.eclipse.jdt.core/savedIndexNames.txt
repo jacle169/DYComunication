@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+D:\Visual Studio 2010\Projects\DYComunication\androidTestClient\.metadata\.plugins\org.eclipse.jdt.core
+861926181.index
+3536962755.index
+2693988643.index
+1944504050.index
+1522955404.index

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="dylcModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="dylcModelStoreContainer">
+          <EntitySet Name="UserKeyTable" EntityType="dylcModel.Store.UserKeyTable" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="UserKeyTable">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="UserId" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="PDKey" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="RegTime" Type="datetime" Nullable="false" />
+          <Property Name="EnableTime" Type="datetime" Nullable="false" />
+          <Property Name="IsForever" Type="bit" Nullable="false" />
+          <Property Name="IsUsing" Type="bit" Nullable="false" />
+          <Property Name="UserMail" Type="nvarchar" MaxLength="100" />
+          <Property Name="UserMobile" Type="nvarchar" MaxLength="11" />
+          <Property Name="UserQQ" Type="nvarchar" MaxLength="15" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="dylcModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="dylcEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="UserKeyTable" EntityType="dylcModel.UserKeyTable" />
+        </EntityContainer>
+        <EntityType Name="UserKeyTable">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserId" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="PDKey" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="RegTime" Type="DateTime" Nullable="false" />
+          <Property Name="EnableTime" Type="DateTime" Nullable="false" />
+          <Property Name="IsForever" Type="Boolean" Nullable="false" />
+          <Property Name="IsUsing" Type="Boolean" Nullable="false" />
+          <Property Name="UserMail" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="UserMobile" Type="String" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="UserQQ" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="dylcModelStoreContainer" CdmEntityContainer="dylcEntities">
+          <EntitySetMapping Name="UserKeyTable"><EntityTypeMapping TypeName="dylcModel.UserKeyTable"><MappingFragment StoreEntitySet="UserKeyTable">
+            <ScalarProperty Name="id" ColumnName="id" />
+            <ScalarProperty Name="UserId" ColumnName="UserId" />
+            <ScalarProperty Name="PDKey" ColumnName="PDKey" />
+            <ScalarProperty Name="RegTime" ColumnName="RegTime" />
+            <ScalarProperty Name="EnableTime" ColumnName="EnableTime" />
+            <ScalarProperty Name="IsForever" ColumnName="IsForever" />
+            <ScalarProperty Name="IsUsing" ColumnName="IsUsing" />
+            <ScalarProperty Name="UserMail" ColumnName="UserMail" />
+            <ScalarProperty Name="UserMobile" ColumnName="UserMobile" />
+            <ScalarProperty Name="UserQQ" ColumnName="UserQQ" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Model1">
+        <EntityTypeShape EntityType="dylcModel.UserKeyTable" Width="1.5" PointX="0.75" PointY="0.75" Height="2.9251310221354165" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

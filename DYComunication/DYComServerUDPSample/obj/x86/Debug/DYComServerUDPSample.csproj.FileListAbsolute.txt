@@ -1,0 +1,7 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServerUDPSample\bin\Debug\DYComServerUDPSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServerUDPSample\bin\Debug\DYComServerUDPSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServerUDPSample\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServerUDPSample\bin\Debug\DYCom_Net4.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServerUDPSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServerUDPSample\obj\x86\Debug\DYComServerUDPSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServerUDPSample\obj\x86\Debug\DYComServerUDPSample.pdb

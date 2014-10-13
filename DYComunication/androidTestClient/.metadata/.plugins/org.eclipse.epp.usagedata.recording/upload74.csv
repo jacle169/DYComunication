@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.jdt.debug.ui,3.5.0.v20100602-0830,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1291081874574
+activated,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.AllMarkersView",1291081877505
+opened,view,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views.PropertySheet",1291081879341
+activated,view,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views.PropertySheet",1291081879380
+opened,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291081879960
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291081879979
+started,bundle,org.eclipse.ui.views.properties.tabbed,3.5.100.I20100509-0800,"org.eclipse.ui.views.properties.tabbed",1291081880012
+started,bundle,org.eclipse.datatools.connectivity,1.2.0.v201005270426,"org.eclipse.datatools.connectivity",1291081881094
+started,bundle,org.eclipse.datatools.connectivity.ui,1.2.0.v201005182319,"org.eclipse.datatools.connectivity.ui",1291081881097
+started,bundle,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201004270430,"org.eclipse.datatools.connectivity.ui.dse",1291081881098
+started,bundle,org.eclipse.datatools.enablement.ingres.ui,1.0.0.v200906111150,"org.eclipse.datatools.enablement.ingres.ui",1291081881140
+started,bundle,org.eclipse.datatools.connectivity.sqm.core,1.2.0.v201005270630,"org.eclipse.datatools.connectivity.sqm.core",1291081881246
+started,bundle,org.eclipse.datatools.connectivity.sqm.core.ui,1.2.0.v201002281800,"org.eclipse.datatools.connectivity.sqm.core.ui",1291081881255
+opened,view,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201004270430,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1291081881313
+activated,view,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201004270430,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1291081881352
+started,bundle,org.eclipse.wst.common.snippets,1.2.1.v201008251905,"org.eclipse.wst.common.snippets",1291081882209
+started,bundle,org.eclipse.gef,3.6.1.v20100712-1224,"org.eclipse.gef",1291081882232
+started,bundle,org.eclipse.draw2d,3.6.1.v20100913-2020,"org.eclipse.draw2d",1291081882292
+opened,view,org.eclipse.wst.common.snippets,1.2.1.v201008251905,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1291081882889
+activated,view,org.eclipse.wst.common.snippets,1.2.1.v201008251905,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1291081882936
+activated,view,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views.PropertySheet",1291081884363
+activated,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.AllMarkersView",1291081884949
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291081889911
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081910211
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291081911840
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291081911841
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291081911843
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291081911846
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291081911847
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291081911849
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081911964
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1291081911978
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1291081911978
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291081912047
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081915183
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081922297
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291081922312
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081925197
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081942338
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081983217
+error,log,,,"Failed to load properties file for project 'DYComClientForJavaSample'",1291081994059
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291081994255
+started,bundle,org.eclipse.wst.wsi.ui,1.0.501.v201004201506,"org.eclipse.wst.wsi.ui",1291081995539
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082005964
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1291082007011
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.ear for object P/DYComClientForJavaSample",1291082007013
+error,log,,,"Could not write metadata for 'C:\\Users\\jac\\Documents\\Visual Studio 2010\\Projects\\DYComunication\\androidTestClient\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\DYComClientForJavaSample\\.indexes\\af\\history.index'.",1291082007018
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082007156
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1291082007168
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1291082007169
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082007321
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082007323
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082008714
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082014743
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.100.v201004290328,"org.eclipse.wst.xsl.debug.ui",1291082015778
+started,bundle,org.eclipse.jpt.ui,2.3.0.v201005190001,"org.eclipse.jpt.ui",1291082023363
+started,bundle,org.eclipse.jpt.db,1.2.200.v201004290000,"org.eclipse.jpt.db",1291082023463
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082023953
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082041410
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082050046
+started,bundle,org.eclipse.jst.ejb.ui,1.1.500.v201004280901,"org.eclipse.jst.ejb.ui",1291082199837
+error,log,,,"Failed to load properties file for project 'DYComClientForJavaSample'",1291082206164
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082206336
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1291082207882
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.ejb for object P/DYComClientForJavaSample",1291082207883
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082229420
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1291082230641
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.ejb for object P/DYComClientForJavaSample",1291082230642
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082230802
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1291082230815
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1291082230815
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082231454
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082231457
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082231459
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082231462
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082231463
+error,log,,,"Unable to get nature of project 'DYComClientForJavaSample'.",1291082231466
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082233644
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082239449
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082298451
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082333717
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082342309
+error,log,,,"Failed to load properties file for project 'DYComClientForJavaSample'",1291082374023
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082397648
+activated,perspective,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.JavaPerspective",1291082397729
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082397761
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082400518
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082426866
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082427617
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082649353
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082651045
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082652636
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082652770
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082658719
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082659601
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082659720
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082669303
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082669570
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082669690
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1291082684888
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082685771
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082685943
+opened,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.ProblemView",1291082692752
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291082709081
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082710943
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082711152
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291082728843
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082742799
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082744142
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082744285
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082750672
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082750904
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082753510
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082753742
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082753853
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291082763013
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082765519
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082765778
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082765894
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291082772334
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082777383
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082779030
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291082789538
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082793343
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082800652
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082807026
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082830835
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.export",1291082830875
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082834494
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082838224
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082839743
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082846831
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082847179
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082850279
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082852041
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082852194
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082852288
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082860444
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082860596
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291082871065
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082876536
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082884924
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082888733
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082889728
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291082958316
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082959255
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082962964
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082962965
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082964111
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082965064
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082966589
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082966589
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082967615
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082967616
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082968432
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082969298
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082969299
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082971015
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082972644
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291082981794
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291082995053
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083004716
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083004835
+started,bundle,org.eclipse.mylyn.java.tasks,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.java.tasks",1291083009755
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291083009852
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083011927
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083012154
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083012270
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291083018053
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083021093
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083021313
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291083027523
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083030846
+executed,command,org.eclipse.jdt.debug.ui,3.5.0.v20100602-0830,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1291083034428
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083037199
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083039212
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083044124
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083045270
+executed,command,org.eclipse.jdt.debug.ui,3.5.0.v20100602-0830,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1291083047389
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083048907
+activated,perspective,org.eclipse.debug.ui,3.6.0.v20100601-1530,"org.eclipse.debug.ui.DebugPerspective",1291083057234
+activated,view,org.eclipse.debug.ui,3.6.0.v20100601-1530,"org.eclipse.debug.ui.DebugView",1291083058532
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083059804
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083060850
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083063019
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083063939
+activated,perspective,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.JavaPerspective",1291083066500
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1291083066513
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083067674
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083072013
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083072756
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083072886
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083082063
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083083516
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083086702
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1291083094532
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1291083097883
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083101404
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083101545
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1291083110860
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083114791
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083116842
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083119924
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083135725
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.export",1291083135745
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083137372
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083144994
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083147352
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083175387
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.export",1291083175409
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083176500
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083180257
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083181655
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083184518
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083185967
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083186114
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083186319
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083190300
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083193637
+executed,command,org.eclipse.jdt.debug.ui,3.5.0.v20100602-0830,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1291083197874
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083199447
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083201679
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083205874
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083206746
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083212375
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083223668
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083224564
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083226331
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083281115
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083282104
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083285400
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083290425
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083297791
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083299446
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083328184
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291083358133
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.import",1291083358148
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.import",1291083358148
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083362573
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083362699
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083379877
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083380223
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1291083383649
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083384485
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083384685
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1291083389458
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1291083392799
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291083394574
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083394828
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291083394953

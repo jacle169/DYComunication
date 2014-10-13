@@ -1,0 +1,19 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\bin\Debug\DYCom_Net4.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\DYCom_Net4.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYCom_Net4\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYCom_Net4\bin\Debug\DYCom_Net4.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYCom_Net4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYCom_Net4\obj\Debug\DYCom_Net4.dll
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYCom_Net4\obj\Debug\DYCom_Net4.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\bin\Debug\DYCom_Net4.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\bin\Debug\DYCom_Net4.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\DYCom_Net4.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\DYCom_Net4.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\DYCom_Net4.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\bin\Debug\DYCom_Net4.dll
+D:\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\bin\Debug\DYCom_Net4.pdb
+D:\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\DYCom_Net4.dll
+D:\Visual Studio 2010\Projects\DYComunication\DYCom_Net4\obj\Debug\DYCom_Net4.pdb

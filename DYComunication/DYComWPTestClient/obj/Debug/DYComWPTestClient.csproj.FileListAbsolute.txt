@@ -1,0 +1,16 @@
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\ApplicationIcon.jpg
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\Background.jpg
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\DYComWPTestClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\DYComWPTestClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\AppManifest.xaml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\DYComWPTestClient.xap
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\DYComWPClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\obj\Debug\App.g.i.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\obj\Debug\MainPage.g.i.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\obj\Debug\DYComWPTestClient.g.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\obj\Debug\DYComWPTestClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\obj\Debug\DYComWPTestClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\obj\Debug\XapCacheFile.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\DYComWPClient.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\Bin\Debug\DYComWPClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComWPTestClient\obj\Debug\DYComWPTestClient.csprojResolveAssemblyReference.cache

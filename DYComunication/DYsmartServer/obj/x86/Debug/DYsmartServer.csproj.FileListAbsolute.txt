@@ -1,0 +1,11 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYsmartServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYsmartServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYCom_Net4.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\obj\x86\Debug\DYsmartServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\obj\x86\Debug\DYsmartServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYComWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYsmartWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYComWinClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServer\bin\Debug\DYsmartWinClient.pdb

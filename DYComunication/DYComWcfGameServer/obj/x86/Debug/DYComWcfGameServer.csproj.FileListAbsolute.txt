@@ -1,0 +1,7 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWcfGameServer\bin\Debug\DYComWcfGameServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWcfGameServer\bin\Debug\DYComWcfGameServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWcfGameServer\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWcfGameServer\bin\Debug\DYCom_Net4.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWcfGameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWcfGameServer\obj\x86\Debug\DYComWcfGameServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWcfGameServer\obj\x86\Debug\DYComWcfGameServer.pdb

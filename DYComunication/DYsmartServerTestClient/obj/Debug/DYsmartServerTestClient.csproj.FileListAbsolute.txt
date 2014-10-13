@@ -1,0 +1,15 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\DYsmartServerTestClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\DYsmartServerTestClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\AppManifest.xaml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\DYsmartServerTestClient.xap
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\DYsmartServerTestClientTestPage.html
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\DYComSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\DYComSLClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\Bin\Debug\DYComSLClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\obj\Debug\App.g.i.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\obj\Debug\MainPage.g.i.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\obj\Debug\DYsmartServerTestClient.g.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\obj\Debug\DYsmartServerTestClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\obj\Debug\DYsmartServerTestClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartServerTestClient\obj\Debug\XapCacheFile.xml

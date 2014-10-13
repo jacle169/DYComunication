@@ -1,0 +1,18 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYComSLAndFlash跨域服务.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYComSLAndFlash跨域服务.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.pdb
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.exe
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.pdb
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.exe
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\obj\Release\DYComSLAndFlash跨域服务.pdb
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYComSLAndFlash跨域服务.exe
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYComSLAndFlash跨域服务.pdb
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYCom_Net4.dll
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYCom_Net4.pdb
+C:\Users\jac\Desktop\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYCom_Net4.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYCom_Net4.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSLAndFlash跨域服务\bin\Release\DYCom_Net4.xml

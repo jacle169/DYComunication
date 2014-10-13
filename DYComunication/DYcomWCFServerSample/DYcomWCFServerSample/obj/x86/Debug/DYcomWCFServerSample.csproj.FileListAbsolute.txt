@@ -1,0 +1,7 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWCFServerSample\DYcomWCFServerSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWCFServerSample\DYcomWCFServerSample\bin\Debug\DYcomWCFServerSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWCFServerSample\DYcomWCFServerSample\bin\Debug\DYcomWCFServerSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWCFServerSample\DYcomWCFServerSample\bin\Debug\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWCFServerSample\DYcomWCFServerSample\bin\Debug\DYCom_Net4.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWCFServerSample\DYcomWCFServerSample\obj\x86\Debug\DYcomWCFServerSample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYcomWCFServerSample\DYcomWCFServerSample\obj\x86\Debug\DYcomWCFServerSample.pdb

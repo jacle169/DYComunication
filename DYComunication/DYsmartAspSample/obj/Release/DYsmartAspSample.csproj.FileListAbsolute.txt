@@ -1,0 +1,8 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\bin\DYsmartAspSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\bin\DYsmartAspSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\bin\DYsmartAspClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\bin\DYsmartWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\bin\DYsmartWinClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\obj\Release\DYsmartAspSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartAspSample\obj\Release\DYsmartAspSample.pdb

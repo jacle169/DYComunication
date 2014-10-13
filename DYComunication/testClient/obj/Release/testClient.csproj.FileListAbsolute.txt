@@ -1,0 +1,30 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\testClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\testClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\AppManifest.xaml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\testClient.xap
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\testClientTestPage.html
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\obj\Release\App.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\obj\Release\MainPage.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\obj\Release\testClient.g.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\obj\Release\testClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\obj\Release\testClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\obj\Release\XapCacheFile.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\DYComSLClient.xml
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\testClient.dll
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\testClient.pdb
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\AppManifest.xaml
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\testClient.xap
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\testClientTestPage.html
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\DYComSLClient.xml
+C:\Users\jac\Desktop\DYComunication\testClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication\testClient\obj\Release\App.g.cs
+C:\Users\jac\Desktop\DYComunication\testClient\obj\Release\MainPage.g.cs
+C:\Users\jac\Desktop\DYComunication\testClient\obj\Release\testClient.g.resources
+C:\Users\jac\Desktop\DYComunication\testClient\obj\Release\testClient.dll
+C:\Users\jac\Desktop\DYComunication\testClient\obj\Release\testClient.pdb
+C:\Users\jac\Desktop\DYComunication\testClient\obj\Release\XapCacheFile.xml
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\DYComSLClient.dll
+C:\Users\jac\Desktop\DYComunication\testClient\Bin\Release\DYComSLClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\DYComSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\testClient\Bin\Release\DYComSLClient.pdb

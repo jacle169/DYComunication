@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\jac\Desktop\WebSite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/DYLicensingServer.pdb" publishTime="11/26/2010 11:09:05" />
+    <file relUrl="bin/LicensingServer.dll" publishTime="01/29/2011 17:07:46" />
+    <file relUrl="Web.config" publishTime="01/29/2011 17:09:04" />
+    <file relUrl="Default.aspx" publishTime="11/20/2010 23:22:42" />
+    <file relUrl="bin/LicensingServer.pdb" publishTime="01/29/2011 17:07:46" />
+    <file relUrl="bin/DYLicensingServer.dll" publishTime="11/26/2010 11:09:05" />
+  </publishProfile>
+</publishData>

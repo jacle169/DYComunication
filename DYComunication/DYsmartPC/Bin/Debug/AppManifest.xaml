@@ -1,0 +1,19 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="DYsmartPC" EntryPointType="DYsmartPC.App" RuntimeVersion="4.0.60310.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="DYsmartPC Application" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+      <OutOfBrowserSettings.Blurb>DYsmartPC Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="DYsmartPC Application" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.SecuritySettings>
+        <SecuritySettings ElevatedPermissions="Required" />
+      </OutOfBrowserSettings.SecuritySettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="DYsmartPC" Source="DYsmartPC.dll" />
+    <AssemblyPart x:Name="DYComSLClient" Source="DYComSLClient.dll" />
+    <AssemblyPart x:Name="DYsmartSLClient" Source="DYsmartSLClient.dll" />
+  </Deployment.Parts>
+</Deployment>

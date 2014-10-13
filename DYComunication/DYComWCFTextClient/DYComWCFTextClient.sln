@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComWCFTextClient", "DYComWCFTextClient\DYComWCFTextClient.csproj", "{59DAC1A1-9D65-40C9-BD8D-770724E04E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComWCFTextClient.Web", "DYComWCFTextClient.Web\DYComWCFTextClient.Web.csproj", "{16D7CD75-2B34-45A9-8ADA-B7ABFED38E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DAC1A1-9D65-40C9-BD8D-770724E04E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DAC1A1-9D65-40C9-BD8D-770724E04E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DAC1A1-9D65-40C9-BD8D-770724E04E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DAC1A1-9D65-40C9-BD8D-770724E04E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D7CD75-2B34-45A9-8ADA-B7ABFED38E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D7CD75-2B34-45A9-8ADA-B7ABFED38E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D7CD75-2B34-45A9-8ADA-B7ABFED38E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D7CD75-2B34-45A9-8ADA-B7ABFED38E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

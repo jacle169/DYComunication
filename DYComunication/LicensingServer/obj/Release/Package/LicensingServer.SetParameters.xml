@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/LicensingServer_deploy" />
+  <setParameter name="dylcEntities-Web.config Connection String" value="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=Sql1001.webweb.com,2433;Initial Catalog=DB_98B430_dylc;Persist Security Info=True;User ID=DB_98B430_dylc_admin;Password=20101937;MultipleActiveResultSets=True&quot;" />
+</parameters>

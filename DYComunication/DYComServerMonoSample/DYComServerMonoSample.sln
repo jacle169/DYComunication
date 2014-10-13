@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComServerMonoSample", "DYComServerMonoSample\DYComServerMonoSample.csproj", "{598949DF-2BDA-4806-B1DC-2FA5EB31D65C}"
+EndProject
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "Packages", "Packages.mdproj", "{1511C53D-EE7B-4D60-A83A-ABB3BAF1FCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1511C53D-EE7B-4D60-A83A-ABB3BAF1FCCF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1511C53D-EE7B-4D60-A83A-ABB3BAF1FCCF}.Release|x86.ActiveCfg = Release|Any CPU
+		{598949DF-2BDA-4806-B1DC-2FA5EB31D65C}.Debug|x86.ActiveCfg = Debug|x86
+		{598949DF-2BDA-4806-B1DC-2FA5EB31D65C}.Debug|x86.Build.0 = Debug|x86
+		{598949DF-2BDA-4806-B1DC-2FA5EB31D65C}.Release|x86.ActiveCfg = Release|x86
+		{598949DF-2BDA-4806-B1DC-2FA5EB31D65C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DYComServerMonoSample\DYComServerMonoSample.csproj
+	EndGlobalSection
+EndGlobal

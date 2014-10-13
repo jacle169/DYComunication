@@ -1,0 +1,234 @@
+协议说明：int长度(4byte)，最大值:27970
+0.密码(6byte)+协议长度(int)+消息体
+
+1.接收消息:
+指令id(int)+指令长度(int)+指令内容
+b)指令：4位byte(int)
+c)指令长度：int(相加结果为指令长度)
+d)指令内容：按指令长度读取指令内容
+2.发送协议
+
+a)指令id+指令内容
+
+A>串口初始化网络参数说明（16进制) 指令长度（7位）不足以00占位
+1.设置网关
+指令体：指令头+IP地址
+指令头 00
+EEPROM地址：100-103
+例：00C0A800010000(后0000为占位符）
+
+2.设置w5100的IP
+指令体：指令头+IP地址
+指令头 01
+EEPROM地址：104-107
+例：01C0A800B10000(后0000为占位符）
+
+3.设置w5100的子域
+指令体：指令头+子域地址
+指令头 02
+EEPROM地址：108-111
+例：02FFFFFF000000(后0000为占位符）
+
+4.设置w5100的MAC地址
+指令体：指令头+Mac地址(六位byte)
+指令头 03
+EEPROM地址：112-117
+例：03DEADBEEFFEED
+
+
+5.设置硬件id
+指令体：指令头+id(一位byte)
+指令头 04
+EEPROM地址：
+例：03DEADBEEFFEED
+
+6.设置硬件密码
+指令体：指令头+密码(六位byte)
+指令头 05
+EEPROM地址：
+例：03DEADBEEFFEED
+
+6.查看硬件密码
+指令体：指令头
+指令头 06
+EEPROM地址：
+例：03DEADBEEFFEED
+
+6.查看硬件信息
+指令体：指令头
+指令头 07
+EEPROM地址：
+例：03DEADBEEFFEED
+
+7.启动IR学习
+指令体：指令头
+指令头 08
+例：08000000000000(后000000000000为占位符)
+return:8:
+
+
+
+A>串口初始化网络参数说明（16进制)
+1.设置网关
+指令体：网关IP地址
+指令头: 200
+EEPROM地址：100-103
+例：00C0A80001
+return 200:
+
+
+2.设置w5100的IP
+指令体：IP地址
+指令头 201
+EEPROM地址：104-107
+例：01C0A800B1
+return 201:
+
+3.设置w5100的子域
+指令体：子域地址
+指令头 202
+EEPROM地址：108-111
+例：02FFFFFF00
+return 202:
+
+4.设置w5100的MAC地址
+指令体：Mac地址(六位byte)
+指令头 203
+EEPROM地址：112-117
+例：03DEADBEEFFEED
+return 203:
+
+B>串口设置硬件标识
+标识：(byte(1):atmega168/atmega328,byte(2):mega1280)
+1.设置硬件标识指令
+指令体：指令头+标识(一位byte)
+指令头 204
+EEPROM地址：0
+例：04010000000000(后0000000000为占位符)
+return 204:
+
+2.查询硬件信息
+指令体：指令头
+指令头 207
+EEPROM地址
+例：07000000000000(后000000000000为占位符)
+return 207:
+
+C>串口设置硬件口令
+1.设置口令
+指令体：指令头
+指令头 205
+EEPROM地址：1-6
+例：05010203040506
+
+2.查看口令
+指令体：指令头
+指令头 206
+EEPROM地址：1-6
+例：06000000000000(后000000000000为占位符)
+return 206:
+
+3.还原出厂设置
+指令体：指令头
+指令头 208
+return 208:
+
+E>网络指令
+1.setPinMode(设置Pin模式)输入或输出
+指令头：1
+指令体：IO(单位byte) +PIN
+IO:1>input
+IO:2>output
+return: 1:
+(1-49pinmode保存在EPPROM,140-189byte);
+
+2.setDigital(设置数字pin值）
+指令头：2
+指令体：值(单位byte)+Pin
+值:1>HIGH
+值:2>LOW
+return: 2:
+(pin范围2-49);
+
+3.setPWM(设置脉冲变频值）
+指令头：3
+指令体：值+Pin(Pwm)
+值:0-255(byte)
+return: 3:
+(pin范围2-13);
+
+4.stepperGo(初始化步进电机及)
+指令头：4:
+指令体：进步电机类型100/200(int)+四个引脚所在IO(4pin)[4byte]+
+转速(int)+转动值(int)
+return: 4:
+
+
+5.setServoPot(设置舵机旋转角度)
+指令头：5
+指令体：值+pin(pwm)
+值：0-180(byte)
+return 5:
+
+6.getAnalog(取模拟IO值)
+指令头：6
+指令体: Analog Pin
+return 6: + analog值
+
+
+7.getDigital(取数字IO值)
+指令头：7
+指令体：Digital Pin
+return 7: + digital值
+
+8.getAll(取得所有IO当前状态)
+指令头：8
+指令体：指令头
+return 8: + digitalPin+,+analogPin+(尾\n|非尾,)
+
+9.apcSend(apc220发送数据指令)
+指令头：9
+指令体：serialPin(1byte)+数据(1byte)
+return 9:
+
+10.appReceive(取apc220缓存数据指令)xxxxxxxxxxx停用
+指令头：10
+指令体：SerialPin(1byte);
+return 10:+ data
+
+11.clearApc(清空apc缓存）xxxxxxxxxxxx停用
+指令体:密码+指令
+指令头：11
+指令体：serialPin(1byte);
+return 11:
+
+12.setupApc(启动apc)
+指令头：12
+指令体：serialPin+波特率Id
+说明：
+a)SerialPin(1-3)(1byte);
+b)波特率Id:(1-11)(1byte)[300,1200,2400,4800,9600,14400,19200,28800,38400,57600,115200]
+return 12:
+
+13.endApc(结束apc)
+指令头：13
+指令体：serialPin(byte);
+return 13:
+
+14.sendIRorder(发送IR指令)
+指令体:密码+指令
+指令头：14
+指令体：IR指令组Bytes(一组由intTObytes数组组成);
+备注：指令string前后加700,;
+return 14:
+
+15.get18b20(读取18b20温度传感器数据)
+指令体:密码+指令
+指令头：15
+指令体：pin(byte)[元件所在数字io]
+return 15:+C度
+
+备注：
+1.IR接收pin 11
+2.IR发送pin 9
+3.上位机比特率9600

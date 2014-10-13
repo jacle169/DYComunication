@@ -1,0 +1,7 @@
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMserver\bin\Debug\DYIMserver.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMserver\bin\Debug\DYIMserver.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMserver\bin\Debug\DYCom_Net4.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMserver\bin\Debug\DYCom_Net4.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMserver\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMserver\obj\x86\Debug\DYIMserver.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYIMserver\obj\x86\Debug\DYIMserver.pdb

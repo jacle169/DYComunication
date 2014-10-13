@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <log>
+    <cpu>BFEBFBFF000006FD</cpu>
+    <key>97bvnEy/m3k=</key>
+    <time>2010-11-26T10:58:11.5317139</time>
+    <result>KeyError</result>
+  </log>
+  <log>
+    <cpu>BFEBFBFF000006FD</cpu>
+    <key>XldLC1oBDA0RBpGlHXb4rA==</key>
+    <time>2010-11-26T11:00:48.5784549</time>
+    <result>EnableTimeOut</result>
+  </log>
+  <log>
+    <cpu>BFEBFBFF000006FD</cpu>
+    <key>XldLC1oBDA0RBpGlHXb4rA==</key>
+    <time>2010-11-26T11:01:29.4047275</time>
+    <result>Pass</result>
+  </log>
+</root>

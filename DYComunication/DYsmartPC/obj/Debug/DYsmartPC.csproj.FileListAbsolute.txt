@@ -1,0 +1,51 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPC.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPC.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\AppManifest.xaml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPC.xap
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPCTestPage.html
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYComSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYComSLClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYComSLClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\App.g.i.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\MainPage.g.i.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\DYsmartPC.g.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\DYsmartPC.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\DYsmartPC.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\XapCacheFile.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartSLClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYsmartPC.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYsmartPC.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\AppManifest.xaml
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYsmartPC.xap
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYsmartPCTestPage.html
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYComSLClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYsmartSLClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYComSLClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYComSLClient.xml
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\Bin\Debug\DYsmartSLClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\obj\Debug\App.g.i.cs
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\obj\Debug\MainPage.g.i.cs
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\obj\Debug\DYsmartPC.g.resources
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\obj\Debug\DYsmartPC.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\obj\Debug\DYsmartPC.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartPC\obj\Debug\XapCacheFile.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPC.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPC.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\AppManifest.xaml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPC.xap
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartPCTestPage.html
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYComSLClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartSLClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYComSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYComSLClient.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\Bin\Debug\DYsmartSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\App.g.i.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\MainPage.g.i.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\DYsmartPC.g.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\DYsmartPC.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\DYsmartPC.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\XapCacheFile.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartPC\obj\Debug\DYsmartPC.csprojResolveAssemblyReference.cache

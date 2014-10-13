@@ -1,0 +1,5 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFTextClient\DYComWCFTextClient.Web\bin\DYComWCFTextClient.Web.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFTextClient\DYComWCFTextClient.Web\bin\DYComWCFTextClient.Web.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFTextClient\DYComWCFTextClient.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFTextClient\DYComWCFTextClient.Web\obj\Debug\DYComWCFTextClient.Web.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComWCFTextClient\DYComWCFTextClient.Web\obj\Debug\DYComWCFTextClient.Web.pdb

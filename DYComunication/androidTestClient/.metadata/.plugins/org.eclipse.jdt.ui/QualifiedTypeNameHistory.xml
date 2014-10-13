@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.net.Socket"/>
+<fullyQualifiedTypeName name="java.net.InetAddress"/>
+<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="DYCom.android.clientPoxy"/>
+<fullyQualifiedTypeName name="java.io.DataInputStream"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="dytest.testad.DYComAndroidTestClient"/>
+<fullyQualifiedTypeName name="java.nio.ByteOrder"/>
+<fullyQualifiedTypeName name="java.nio.ByteBuffer"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="java.beans.PropertyChangeListener"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="java.util.EventListener"/>
+<fullyQualifiedTypeName name="java.util.EventObject"/>
+<fullyQualifiedTypeName name="java.beans.PropertyChangeEvent"/>
+<fullyQualifiedTypeName name="DYCom.J2SE.clientPoxy"/>
+<fullyQualifiedTypeName name="DYCom.J2SE.DYwriter"/>
+<fullyQualifiedTypeName name="DYCom.J2SE.DYreader"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.apache.http.util.EncodingUtils"/>
+<fullyQualifiedTypeName name="java.net.InetSocketAddress"/>
+</qualifiedTypeNameHistroy>

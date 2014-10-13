@@ -1,0 +1,18 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Release\DYComServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Release\DYComServer.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Release\DYComServer.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\obj\Release\DYComServer.pdb
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComServer\obj\Release\DYComServer.exe
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComServer\obj\Release\DYComServer.pdb
+C:\Users\jac\Desktop\DYComunication\DYComServer\obj\Release\DYComServer.exe
+C:\Users\jac\Desktop\DYComunication\DYComServer\obj\Release\DYComServer.pdb
+C:\Users\jac\Desktop\DYComunication\DYComServer\bin\Release\DYComServer.exe
+C:\Users\jac\Desktop\DYComunication\DYComServer\bin\Release\DYComServer.pdb
+C:\Users\jac\Desktop\DYComunication\DYComServer\bin\Release\DYCom_Net4.dll
+C:\Users\jac\Desktop\DYComunication\DYComServer\bin\Release\DYCom_Net4.pdb
+C:\Users\jac\Desktop\DYComunication\DYComServer\bin\Release\DYCom_Net4.xml
+C:\Users\jac\Desktop\DYComunication\DYComServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Release\DYCom_Net4.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Release\DYCom_Net4.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComServer\bin\Release\DYCom_Net4.xml

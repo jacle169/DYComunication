@@ -1,0 +1,20 @@
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.dll
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.dll
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYComWinClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\bin\Debug\DYComWinClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComWinClient\obj\Debug\DYComWinClient.pdb

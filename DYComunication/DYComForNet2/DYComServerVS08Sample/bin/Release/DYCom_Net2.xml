@@ -1,0 +1,668 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DYCom_Net2</name>
+    </assembly>
+    <members>
+        <member name="T:DYCom_Net2.Queuer">
+            <summary>
+            消息队列
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.Queuer.ClearQueues">
+            <summary>
+            清空消息队列
+            </summary>
+            <remarks>清空消息队列正在排队中的所有消息,调用本方法将会导致消息不发送的可能.</remarks>
+        </member>
+        <member name="T:DYCom_Net2.DYcryption">
+            <summary> 
+            加密组件
+            </summary> 
+        </member>
+        <member name="M:DYCom_Net2.DYcryption.EncryptDES(System.Byte[],System.String)">
+            <summary>
+            DES加密消息
+            </summary>
+            <param name="input">须加密的数据</param>
+            <param name="password">加密口令，须为8位字符串，否则返加null值</param>
+            <returns>加密后byte[]消息内容</returns>
+        </member>
+        <member name="M:DYCom_Net2.DYcryption.DecryptDES(System.Byte[],System.String)">
+            <summary>
+            DES解密消息
+            </summary>
+            <param name="Input">须解密的数据</param>
+            <param name="password">解密口令，与加密口令必须一致,须为8位字符串，否则返加null值</param>
+            <returns>解密后byte[]消息内容</returns>
+        </member>
+        <member name="T:DYCom_Net2.DYSocketCore">
+            <summary>
+            DYcom核心组件
+            </summary>
+        </member>
+        <member name="F:DYCom_Net2.DYSocketCore.BuffManagers">
+            <summary>
+            数据包管理
+            </summary>
+        </member>
+        <member name="F:DYCom_Net2.DYSocketCore.SocketAsynPool">
+            <summary>
+            Socket异步对象池
+            </summary>
+        </member>
+        <member name="F:DYCom_Net2.DYSocketCore.dySock">
+            <summary>
+            SOCK对象
+            </summary>
+        </member>
+        <member name="F:DYCom_Net2.DYSocketCore.MaxBufferSize">
+            <summary>
+            接收包大小
+            </summary>
+        </member>
+        <member name="F:DYCom_Net2.DYSocketCore.MaxConnectCout">
+            <summary>
+            最大用户连接
+            </summary>
+        </member>
+        <member name="F:DYCom_Net2.DYSocketCore.Port">
+            <summary>
+            服务使用的端口
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYSocketCore.Start">
+            <summary>
+            启动服务
+            </summary>
+            <remarks>启动核心服务</remarks>
+        </member>
+        <member name="M:DYCom_Net2.DYSocketCore.Stop">
+            <summary>
+            停止服务
+            </summary>
+            <remarks>停止核心服务</remarks>
+        </member>
+        <member name="M:DYCom_Net2.DYSocketCore.#ctor(System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            DYcom核心服务
+            </summary>
+            <remarks>他提供了最基础的通信方式,而且支持不用你自己协议进行同步通信,如果异步通信请使用DYComer里的通信接口,它同时支持异步通信.</remarks>
+            <param name="port">端口</param>
+            <param name="maxconnectcout">最大接入客户端数</param>
+            <param name="maxbuffersize">每个客户端接收缓冲区大小</param>
+            <param name="PDkey">DYCOM产品密钥</param>
+        </member>
+        <member name="M:DYCom_Net2.DYSocketCore.Run">
+            <summary>
+            启动
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYSocketCore.SendData(System.Net.Sockets.SocketAsyncEventArgs,System.Byte[])">
+            <summary>
+            发送异步数据
+            </summary>
+            <param name="sk">socket对象</param>
+            <param name="Data">数据</param>
+        </member>
+        <member name="M:DYCom_Net2.DYSocketCore.SendSync(DYCom_Net2.DYSocket,System.Byte[])">
+            <summary>
+            以同步方式发送数据
+            </summary>
+            <remarks>此方此为同步发送数据使用</remarks>
+            <param name="sk">DYSocket对象</param>
+            <param name="Data">要发送的数据</param>
+        </member>
+        <member name="M:DYCom_Net2.DYSocketCore.Disconnect(DYCom_Net2.DYSocket)">
+            <summary>
+            关闭此客户端
+            </summary>
+            <remarks>关闭此客户端,但并未释放,可以复用.</remarks>
+            <param name="socks">socket对象</param>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.DYSock">
+            <summary>
+            DYSocket对象
+            </summary>
+            <remarks>DYSocket对象,只允许提取</remarks>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.ConnectOnCore">
+            <summary>
+            核心服务连接事件处理
+            </summary>
+            <remarks>当客户端连接成功后马上触发本事件.</remarks>
+            <value>已注册事件实例</value>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.DataOnCore">
+            <summary>
+            核心服务消息到达事件处理
+            </summary>
+            <remarks>当客户端消息到达后马上触发本事件.</remarks>
+            <value>消息事件实例</value>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.ErrorOnCore">
+            <summary>
+            核心服务异常或用户断开事件处理
+            </summary>
+            <remarks>当客户端异常或用户断开后马上触发本事件.</remarks>
+            <value>异常事件实例</value>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.NoDelay">
+            <summary>
+            Delay算法
+            </summary>
+            <remarks>取得或设置Delay状态</remarks>
+            <value>True为开启,False为禁用</value>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.ReceiveTimeout">
+            <summary>
+            接收消息超时属性
+            </summary>
+            <remarks>当接收某客户端连接传来数据时出现IO读取异常超过此属性值时,将触发异常通过到DYCom异常事件.</remarks>
+            <value>超时时间[毫秒]</value>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.SendTimeout">
+            <summary>
+            发送消息超时属性
+            </summary>
+            <remarks>当向某客户端发送数据时出现IO读取异常超过此属性值时,将触发异常通过到DYCom异常事件.</remarks>
+            <value>超时时间[毫秒]</value>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.GetMaxBufferSize">
+            <summary>
+            取得核心服务接收缓冲区大小
+            </summary>
+            <remarks>取得核心服务接收缓冲区大小</remarks>
+            <value>缓冲区大小[字节]</value>
+        </member>
+        <member name="P:DYCom_Net2.DYSocketCore.GetMaxUserConnect">
+            <summary>
+            取得最大用户连接数
+            </summary>
+            <remarks>取得最大用户连接数</remarks>
+            <value>最大用户连接数[Int]</value>
+        </member>
+        <member name="T:DYCom_Net2.DYWriter">
+            <summary>
+            数据包格式化类
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.Merge(System.Byte[][])">
+            <summary>
+            将1个2维数据包整合成以个一维数据包
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Int32)">
+            <summary>
+            将一个32位整形转换成一个BYTE[]4字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Single)">
+            <summary>
+            将一个浮点型转换成一个BYTE[]4字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Int16)">
+            <summary>
+            将一个16位整形转换成一个BYTE[]2字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Double)">
+            <summary>
+            将一个Double值转换成一个BYTE[]4字节
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.DateTime)">
+            <summary>
+            将一个DateTime值转换成一个BYTE[]8字节
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Boolean)">
+            <summary>
+            将一个Bool值转换成一个BYTE(True:1,False:0)
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Int64)">
+            <summary>
+            将一个64位整型转换成以个BYTE[] 8字节
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Byte)">
+            <summary>
+            将一个 1位CHAR转换成1位的BYTE
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.Byte[])">
+            <summary>
+            将一个BYTE[]数据包添加首位长度
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYWriter.GetDYBytes(System.String,System.Text.Encoding)">
+            <summary>
+            将一个字符串转换成BYTE[]，BYTE[]的首位是字符串的长度
+            </summary>
+            <param name="data">数据</param>
+            <param name="encoder">编码器</param>
+            <returns></returns>
+        </member>
+        <member name="T:DYCom_Net2.DYReader">
+            <summary>
+            DYCom消息读取器
+            </summary>
+        </member>
+        <member name="F:DYCom_Net2.DYReader.Current">
+            <summary>
+            游标
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.Reset">
+            <summary>
+            重置内存流指针
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.#ctor(System.Byte[])">
+            <summary>
+            DYCom消息读取器
+            </summary>
+            <remarks>读取消息中的内容</remarks>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadInt32(System.Int32@)">
+            <summary>
+            读取内存流中的4位并转换成整型
+            </summary>
+            <param name="values">内存流</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadFloat(System.Single@)">
+            <summary>
+            读取内存流中的4位并转换浮点型
+            </summary>
+            <param name="values">内存流</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadDouble(System.Double@)">
+            <summary>
+            读取内存流中的Double值
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadInt64(System.Int64@)">
+            <summary>
+            读取内存流中的Long值
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadBool(System.Boolean@)">
+            <summary>
+            读取内存流中的Bool值
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadDateTime(System.DateTime@)">
+            <summary>
+            读取内存流中的DataTime值
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadByte(System.Byte@)">
+            <summary>
+            读取内存流中的首位
+            </summary>
+            <param name="values">读出变量</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadInt16(System.Int16@)">
+            <summary>
+            读取内存流中的2位并转换成整型
+            </summary>
+            <param name="values">读出变量</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadString(System.String@,System.Text.Encoding)">
+            <summary>
+            读取内存流中一段字符串
+            </summary>
+            <param name="values">读出变量</param>
+            <param name="encoder">解码器</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.ReadByteArray(System.Byte[]@)">
+            <summary>
+            读取内存流中一段数据
+            </summary>
+            <param name="values">读出变量</param>
+            <returns></returns>
+        </member>
+        <member name="M:DYCom_Net2.DYReader.GetCurrentToEnd">
+            <summary>
+            读取内存流中剩余部份
+            </summary>
+        </member>
+        <member name="P:DYCom_Net2.DYReader.Length">
+            <summary>
+            内存流长度
+            </summary>
+        </member>
+        <member name="P:DYCom_Net2.DYudpMessage.RemoteHost">
+            <summary>
+            接入端信息
+            </summary>
+            <remarks>保存了一个相应接入端信息</remarks>
+        </member>
+        <member name="P:DYCom_Net2.DYudpMessage.data">
+            <summary>
+            消息体
+            </summary>
+            <remarks>包含了一条完整的消息内容</remarks>
+        </member>
+        <member name="T:DYCom_Net2.UserInfo">
+            <summary>
+            客户端Base实例
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.UserInfo.#ctor">
+            <summary>
+            接入客户端构造函数
+            </summary>
+            <remarks>客户端用户自定义类必须继承于此类,否则将不能进行发送操作</remarks>
+        </member>
+        <member name="M:DYCom_Net2.UserInfo.SetSendBuffer(System.Int32)">
+            <summary>
+            设置用户发送缓冲区
+            </summary>
+            <remarks>此值必须是你将要发送的单个消息之最大可能值。如果发送消息大小大于此值将会触发SendErrorHandler事件.</remarks>
+            <param name="Size">缓冲区大小.参数类型:int,表述单位为字节</param>
+        </member>
+        <member name="M:DYCom_Net2.UserInfo.SetupTimeoutCheck(DYCom_Net2.DYComer,System.Int32)">
+            <summary>
+            设置用户静止超时时间
+            </summary>
+            <remarks>以用户最后一次到来消息时间开始计算，当用户在指定时间值内没有任何消息到来将会自动关闭此客户端的连接</remarks>
+            <param name="server">当前DYComer实例，作用是提供断开客户端时操作.</param>
+            <param name="TimeOutSeconds">设置允许静止最大时间值，超过此值时服务端将主动断开客户端，单位(秒).</param>
+        </member>
+        <member name="M:DYCom_Net2.UserInfo.SocketClose">
+            <summary>
+            关闭本客户端
+            </summary>
+            <remarks>切底断开并释放此客户端，此方法客户端将会捕捉到断开状态</remarks>
+        </member>
+        <member name="P:DYCom_Net2.UserInfo.SessionId">
+            <summary>
+            实例唯一ID
+            </summary>
+            <remarks>此值是每个客户端独有的唯一标识，在客户端接入时系统自动标识</remarks>
+        </member>
+        <member name="P:DYCom_Net2.UserInfo.SendHandle">
+            <summary>
+            错误提示代理事件
+            </summary>
+            <remarks>此代理所注册的事件会捕捉到客户端通信过程中可能出现的异常</remarks>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:DYCom_Net2.UserInfo.StaticHandle" -->
+        <member name="P:DYCom_Net2.UserInfo.Sock">
+            <summary>
+            接入实例Socket实例
+            </summary>
+            <remarks>处理消息Socket实例,发送消息通道和接收消息通道均派生于现实例.</remarks>
+        </member>
+        <member name="M:DYCom_Net2.LicensingClient.SendLicensing(System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            启动验证服务
+            </summary>
+            <param name="LicensingServerUri">验证服务器地址</param>
+            <param name="key">产品密钥</param>
+            <param name="cryKey">第三方加密口令(8位字符串）</param>
+            <param name="LoopSleepTime">验证时间间隔(验证将以秒为单位，每隔本参数进行验证提交时间比对)</param>
+            <param name="mixRandomTime">最少验证时间值(以秒为单位)</param>
+            <param name="maxRandomTime">最大验证时间值(以少为单位)</param>
+            <param name="canWrong">容错次数(允许验证错误的最大值)</param>
+        </member>
+        <member name="F:DYCom_Net2.SocketAsyncEventArgsPool.pool">
+            <summary>
+            SocketAsyncEventArgs栈
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.SocketAsyncEventArgsPool.#ctor(System.Int32)">
+            <summary>
+            初始化SocketAsyncEventArgs池
+            </summary>
+            <param name="capacity">最大可能使用的SocketAsyncEventArgs对象.</param>
+        </member>
+        <member name="M:DYCom_Net2.SocketAsyncEventArgsPool.Pop">
+            <summary>
+            弹出一个SocketAsyncEventArgs
+            </summary>
+            <returns>SocketAsyncEventArgs removed from the pool.</returns>
+        </member>
+        <member name="M:DYCom_Net2.SocketAsyncEventArgsPool.Push(System.Net.Sockets.SocketAsyncEventArgs)">
+            <summary>
+            添加一个 SocketAsyncEventArgs
+            </summary>
+            <param name="item">SocketAsyncEventArgs instance to add to the pool.</param>
+        </member>
+        <member name="P:DYCom_Net2.SocketAsyncEventArgsPool.Count">
+            <summary>
+            返回SocketAsyncEventArgs池中的 数量
+            </summary>
+        </member>
+        <member name="T:DYCom_Net2.ConnectHandler">
+            <summary>
+            DYSocketCore的连接代理
+            </summary>
+            <param name="socketAsync">dysocket实例</param>
+            <param name="IsConneted">连接结果</param>
+        </member>
+        <member name="T:DYCom_Net2.OndataHandler">
+            <summary>
+            DYSocketCore的数据包输入代理
+            </summary>
+            <param name="data">输入包</param>
+            <param name="socketAsync">dysocket实例</param>
+        </member>
+        <member name="T:DYCom_Net2.ErrorHandler">
+            <summary>
+            DYSocketCore的异常错误,通常是用户断开的代理
+            </summary>
+            <param name="message">消息</param>
+            <param name="socketAsync">dysocket实例</param>
+        </member>
+        <member name="T:DYCom_Net2.SendErrorHandler">
+            <summary>
+            UserInfo中的异常错误,通常是客户端缓冲区小于消息大小
+            </summary>
+            <param name="message">消息</param>
+        </member>
+        <member name="T:DYCom_Net2.OnConnet">
+            <summary>
+            DYComer的连接通知
+            </summary>
+        </member>
+        <member name="T:DYCom_Net2.OnData">
+            <summary>
+            DYComer的消息通知
+            </summary>
+        </member>
+        <member name="T:DYCom_Net2.OnDisConnet">
+            <summary>
+            DYComer的错误通知
+            </summary>
+        </member>
+        <member name="T:DYCom_Net2.DYSocket">
+            <summary>
+            DYComSocket实例
+            </summary>
+        </member>
+        <member name="P:DYCom_Net2.DYSocket.SocketArgs">
+            <summary>
+            DYSocket通信对象实例
+            </summary>
+            <remarks>此实例用以保存客户各种原始实例</remarks>
+            <value>返回ScoketAsyncEventArgs类型属性</value>
+        </member>
+        <member name="T:DYCom_Net2.OnUserStaticTimeOut">
+            <summary>
+            用户静止时间到达通知
+            </summary>
+            <param name="SessionId">用户唯一ID标识</param>
+            <returns>返回Bool值，true为断开此客户端，flash为继续让此客户端连接。</returns>
+        </member>
+        <member name="T:DYCom_Net2.OnUdpData">
+            <summary>
+            udp消息通知
+            </summary>
+        </member>
+        <member name="T:DYCom_Net2.JsonMapper">
+            <summary>
+            JSON序列化器
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.JsonMapper.#ctor">
+            <summary>
+            JSON序列化器实例
+            </summary>
+            <remarks>用于把类型与字符串之间的转换操作.</remarks>
+            <returns>构建一个JSON序列化器实例</returns>
+        </member>
+        <member name="M:DYCom_Net2.JsonMapper.ToJson(System.Object)">
+            <summary>
+            将类型实例序列化为JSON字符串
+            </summary>
+            <remarks>将类型实例序列化为JSON字符串</remarks>
+            <param name="obj">实例对象</param>
+            <returns>序列化后的字符串</returns>
+        </member>
+        <member name="M:DYCom_Net2.JsonMapper.ToObject``1(System.String)">
+            <summary>
+            将JSON字符串反序列化为类型实例
+            </summary>
+            <remarks>将JSON字符串反序列化为类型实例</remarks>
+            <param name="json">要反序列化的JSON字符串</param>
+            <returns>反序列化后的对象实例</returns>
+        </member>
+        <member name="T:DYCom_Net2.DYComer">
+            <summary>
+            DYCom服务组件
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.#ctor">
+            <summary>
+            DYCom组件构造函数
+            </summary>
+            <remarks>实例化DYCom服务组件</remarks>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.Version">
+            <summary>
+            DYcom的产品版本号
+            </summary>
+            <returns>DYcom的产品版本号</returns>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.TargetFramework">
+            <summary>
+            取得此DYCOM运行依赖的NETFrameWork版本
+            </summary>
+            <returns>DYcom运行要求的.NETFramework版本</returns>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.Start(System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            启动服务
+            </summary>
+            <remarks>启动DYCom服务</remarks>
+            <param name="port">服务端提供服务的端口号</param>
+            <param name="maxConnets">允许最大接入客户端数量</param>
+            <param name="BufferSize">每个客户端的接收缓冲区大小</param>
+            <param name="key">DYCOM产品密钥</param>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.Start">
+             <summary>
+            启动服务
+             </summary>
+             <remarks>在服务运行过程中执行了Stop操作时可使用本方法重新恢复服务进入运行状态</remarks>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.Stop">
+            <summary>
+            停止服务
+            </summary>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.DisConnet(DYCom_Net2.DYSocket)">
+            <summary>
+            断开连接事件通信属性
+            </summary>
+            <remarks>断开并释放指定的客户端</remarks>
+            <param name="e">要断开的客户端DYSocket</param>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.SendToSingle``1(``0,System.Byte[])">
+            <summary>
+            发送消息给指定一个客户端
+            </summary>
+            <remarks>发送消息到参数中的客户端对象,客户端必须继承于UserInfo</remarks>
+            <param name="info">客户端实例</param>
+            <param name="data">消息体</param>
+            <returns>返回True即发送成功，返回Flase即发送失败。</returns>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.SendToAll``1(System.Collections.Generic.List{``0},System.Byte[])">
+            <summary>
+            发送消息到r指定的客户端集合
+            </summary>
+            <remarks>把消息发送到参数客户端集合里的所有客户端元素.客户端对象必须继承于UserInfo</remarks>
+            <param name="Clients">客户端集合</param>
+            <param name="Data">消息体</param>
+            <returns>返回True即发送成功，返回Flase即发送失败。</returns>
+        </member>
+        <member name="M:DYCom_Net2.DYComer.SendWithOut``1(System.Collections.Generic.List{``0},DYCom_Net2.UserInfo,System.Byte[])">
+            <summary>
+            从集合中发送消息，不发送到指定一个客户端
+            </summary>
+            <remarks>消息发送到指定客户端的其他对象，客户端必须继承于UserInfo</remarks>
+            <param name="Clients">指定要发送的客户端集合</param>
+            <param name="info">指定要发送例外的客户端实例</param>
+            <param name="Data">消息体</param>
+            <returns>返回True即发送成功，返回Flase即发送失败。</returns>
+        </member>
+        <member name="P:DYCom_Net2.DYComer.onConnet">
+            <summary>
+            当客户端连接到服务时的通知事件
+            </summary>
+            <value>连接事件实例</value>
+        </member>
+        <member name="P:DYCom_Net2.DYComer.onData">
+            <summary>
+            当客户端消息到服务端时的通知事件
+            </summary>
+            <value>消息通知事件实例</value>
+        </member>
+        <member name="P:DYCom_Net2.DYComer.onDisconnet">
+            <summary>
+            在运行过程中出现异常会通知此事件通知
+            </summary>
+            <value>异常通知实例</value>
+        </member>
+        <member name="T:DYCom_Net2.DYmessage">
+            <summary>
+            dycom内部消息结构
+            </summary>
+        </member>
+        <member name="P:DYCom_Net2.DYmessage.user">
+            <summary>
+            接入端实例
+            </summary>
+            <remarks>保存了一个相应接入端实例</remarks>
+        </member>
+        <member name="P:DYCom_Net2.DYmessage.data">
+            <summary>
+            消息体
+            </summary>
+            <remarks>包含了一条完整的消息内容</remarks>
+        </member>
+    </members>
+</doc>

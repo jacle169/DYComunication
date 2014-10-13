@@ -1,0 +1,47 @@
+package dytest.testad;
+
+import java.nio.ByteBuffer;
+
+import android.app.Activity;
+import android.util.Log;
+import android.widget.*;
+import android.os.Bundle;
+import DYCom.android.*;
+
+public class DYComAndroidTestClient extends Activity implements dyChangeListener {
+    /** Called when the activity is first created. */
+	int login=0;
+	clientPoxy poxy;
+	DYwriter dm;
+	TextView tv;
+	
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+		tv=new TextView(this);
+        setContentView(tv);
+        
+        dm=new DYwriter();
+        poxy=new clientPoxy("192.168.0.2",4510,256);
+        poxy.dyevent.setDYListener(this);
+
+        ByteBuffer[] msg ={dm.GetDYBytes(login),dm.GetDYBytes("hello dycom","utf-8")};
+        poxy.send(dm.Merge(msg));
+    }
+
+	@Override
+	public void execute(byte[] data) {
+        DYreader read=new DYreader(data);
+        int type = read.ReadInt32();
+        display("operation: " + Integer.toString(type));
+        String msg = read.ReadString("urf-8");
+        display("message: " + msg);
+
+	}
+	
+	void display(String msg)
+	{
+      tv.append(msg + "\r\n");
+	}
+    
+}

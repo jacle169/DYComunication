@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComServerVS08Sample", "DYComServerVS08Sample\DYComServerVS08Sample.csproj", "{00CA09D6-DB35-4938-911A-80017AA264E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComSLAndFlash跨域服务", "DYComSLAndFlash跨域服务\DYComSLAndFlash跨域服务.csproj", "{F5899729-8B75-4A4A-8A76-DD4DA12BC887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComWinMobileClientSample", "DYComWinMobileClientSample\DYComWinMobileClientSample.csproj", "{2B7EB2E2-C0EE-4264-BB00-D62DD194A995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComWinClient", "DYComWinClient\DYComWinClient.csproj", "{10F80AE3-6447-4AAA-9712-2656C166D4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComWinFormClientSample", "DYComWinFormClientSample\DYComWinFormClientSample.csproj", "{16B6B425-C9DC-41BC-AD30-CDD489898F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYCom_Net2", "DYCom_Net2\DYCom_Net2.csproj", "{CC6A87F5-E5EA-4D69-BC7D-EBE45493FF73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYsmartWinClient", "DYsmartWinClient\DYsmartWinClient.csproj", "{00DD0946-A18A-49D0-8A7C-A1BE6BFDDD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYsmartWMClient", "DYsmartWMClient\DYsmartWMClient.csproj", "{A98E642D-BB0C-421E-BCDA-06442ED72C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYsmartAspClient", "DYsmartAspClient\DYsmartAspClient.csproj", "{F2B2D0B8-FF7F-4902-8E33-CE9250F4A770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYsmartPCwinform", "DYsmartPCwinform\DYsmartPCwinform.csproj", "{A075DCA6-4CC0-42E8-9E54-365588C9CE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComServerUDPSample", "DYComServerUDPSample\DYComServerUDPSample.csproj", "{25338EF3-25CA-4FD9-B54C-FE1E09E7080F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYsmartWINSample", "DYsmartWINSample\DYsmartWINSample.csproj", "{027D6334-1915-4D4B-9DF4-DA2C348D509D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYsmartWMSample", "DYsmartWMSample\DYsmartWMSample.csproj", "{F880387D-5F13-4406-8C74-C3BF3E6553FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYComWMClient", "DYComWMClient\DYComWMClient.csproj", "{8893F17F-77AB-44B6-843C-10AEA501E3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CA09D6-DB35-4938-911A-80017AA264E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CA09D6-DB35-4938-911A-80017AA264E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CA09D6-DB35-4938-911A-80017AA264E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CA09D6-DB35-4938-911A-80017AA264E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5899729-8B75-4A4A-8A76-DD4DA12BC887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5899729-8B75-4A4A-8A76-DD4DA12BC887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5899729-8B75-4A4A-8A76-DD4DA12BC887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5899729-8B75-4A4A-8A76-DD4DA12BC887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7EB2E2-C0EE-4264-BB00-D62DD194A995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7EB2E2-C0EE-4264-BB00-D62DD194A995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7EB2E2-C0EE-4264-BB00-D62DD194A995}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2B7EB2E2-C0EE-4264-BB00-D62DD194A995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7EB2E2-C0EE-4264-BB00-D62DD194A995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7EB2E2-C0EE-4264-BB00-D62DD194A995}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{10F80AE3-6447-4AAA-9712-2656C166D4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F80AE3-6447-4AAA-9712-2656C166D4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F80AE3-6447-4AAA-9712-2656C166D4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F80AE3-6447-4AAA-9712-2656C166D4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B6B425-C9DC-41BC-AD30-CDD489898F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B6B425-C9DC-41BC-AD30-CDD489898F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B6B425-C9DC-41BC-AD30-CDD489898F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B6B425-C9DC-41BC-AD30-CDD489898F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6A87F5-E5EA-4D69-BC7D-EBE45493FF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6A87F5-E5EA-4D69-BC7D-EBE45493FF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6A87F5-E5EA-4D69-BC7D-EBE45493FF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6A87F5-E5EA-4D69-BC7D-EBE45493FF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DD0946-A18A-49D0-8A7C-A1BE6BFDDD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DD0946-A18A-49D0-8A7C-A1BE6BFDDD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DD0946-A18A-49D0-8A7C-A1BE6BFDDD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DD0946-A18A-49D0-8A7C-A1BE6BFDDD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98E642D-BB0C-421E-BCDA-06442ED72C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98E642D-BB0C-421E-BCDA-06442ED72C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98E642D-BB0C-421E-BCDA-06442ED72C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98E642D-BB0C-421E-BCDA-06442ED72C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B2D0B8-FF7F-4902-8E33-CE9250F4A770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B2D0B8-FF7F-4902-8E33-CE9250F4A770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B2D0B8-FF7F-4902-8E33-CE9250F4A770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B2D0B8-FF7F-4902-8E33-CE9250F4A770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A075DCA6-4CC0-42E8-9E54-365588C9CE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A075DCA6-4CC0-42E8-9E54-365588C9CE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A075DCA6-4CC0-42E8-9E54-365588C9CE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A075DCA6-4CC0-42E8-9E54-365588C9CE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25338EF3-25CA-4FD9-B54C-FE1E09E7080F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25338EF3-25CA-4FD9-B54C-FE1E09E7080F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25338EF3-25CA-4FD9-B54C-FE1E09E7080F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25338EF3-25CA-4FD9-B54C-FE1E09E7080F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027D6334-1915-4D4B-9DF4-DA2C348D509D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027D6334-1915-4D4B-9DF4-DA2C348D509D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027D6334-1915-4D4B-9DF4-DA2C348D509D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027D6334-1915-4D4B-9DF4-DA2C348D509D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F880387D-5F13-4406-8C74-C3BF3E6553FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F880387D-5F13-4406-8C74-C3BF3E6553FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F880387D-5F13-4406-8C74-C3BF3E6553FB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F880387D-5F13-4406-8C74-C3BF3E6553FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F880387D-5F13-4406-8C74-C3BF3E6553FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F880387D-5F13-4406-8C74-C3BF3E6553FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8893F17F-77AB-44B6-843C-10AEA501E3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8893F17F-77AB-44B6-843C-10AEA501E3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8893F17F-77AB-44B6-843C-10AEA501E3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8893F17F-77AB-44B6-843C-10AEA501E3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

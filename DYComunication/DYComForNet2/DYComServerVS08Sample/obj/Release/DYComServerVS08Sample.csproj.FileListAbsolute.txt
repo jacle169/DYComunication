@@ -1,0 +1,26 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYComServerVS08Sample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYComServerVS08Sample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.exe
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.pdb
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.exe
+E:\jacob\myapplication\sl4\slSocketGameServer\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.exe
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYComServerVS08Sample.exe
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYComServerVS08Sample.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.dll
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.pdb
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.xml
+C:\Users\jac\Desktop\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYComServerVS08Sample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYComServerVS08Sample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\bin\Release\DYCom_Net2.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.exe
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComForNet2\DYComServerVS08Sample\obj\Release\DYComServerVS08Sample.pdb

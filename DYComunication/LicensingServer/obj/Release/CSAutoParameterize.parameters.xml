@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dylcEntities-Web.config Connection String" description="dylcEntities Connection String used in web.config by the application to access the database." defaultvalue="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=Sql1001.webweb.com,2433;Initial Catalog=DB_98B430_dylc;Persist Security Info=True;User ID=DB_98B430_dylc_admin;Password=20101937;MultipleActiveResultSets=True&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dylcEntities']/@connectionString" />
+  </parameter>
+</parameters>

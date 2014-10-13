@@ -1,0 +1,15 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\Bin\Debug\DYsmartSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\Bin\Debug\DYsmartSLClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Debug\DYsmartSLClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Debug\DYsmartSLClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartSLClient\Bin\Debug\DYsmartSLClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartSLClient\Bin\Debug\DYsmartSLClient.pdb
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartSLClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartSLClient\obj\Debug\DYsmartSLClient.dll
+C:\Users\jac\Desktop\DYComunication9.8\DYsmartSLClient\obj\Debug\DYsmartSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\Bin\Debug\DYsmartSLClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\Bin\Debug\DYsmartSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Debug\DYsmartSLClient.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Debug\DYsmartSLClient.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYsmartSLClient\obj\Debug\DYsmartSLClient.csprojResolveAssemblyReference.cache

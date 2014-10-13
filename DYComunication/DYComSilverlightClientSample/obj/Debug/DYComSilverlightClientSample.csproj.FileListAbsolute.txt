@@ -1,0 +1,43 @@
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\AppManifest.xaml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.xap
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSampleTestPage.html
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\testClient.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\testClient.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSLClient.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\App.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\MainPage.g.cs
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.g.resources
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.dll
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.pdb
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\XapCacheFile.xml
+C:\Users\jac\Documents\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSLClient.dll
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.dll
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\AppManifest.xaml
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.xap
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSampleTestPage.html
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\testClient.dll
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\testClient.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\Bin\Debug\DYComSLClient.xml
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\obj\Debug\App.g.cs
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\obj\Debug\MainPage.g.cs
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.g.resources
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.dll
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.pdb
+C:\Users\jac\Desktop\DYComunication13.3离线版\DYComSilverlightClientSample\obj\Debug\XapCacheFile.xml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\AppManifest.xaml
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSample.xap
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\Bin\Debug\DYComSilverlightClientSampleTestPage.html
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\App.g.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\MainPage.g.cs
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.g.resources
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\DYComSilverlightClientSample.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\DYComunication\DYComSilverlightClientSample\obj\Debug\XapCacheFile.xml
